@@ -14,11 +14,12 @@ Team members have drafted their project, including the following:
 
 ✓ Description of their source of data
  - This is a robust dataset containing the entire catalogue of..... broken down by the following details:
- #^ -  Pokedex Data - 
- #^ -  Base Stats Data - 
- #^ -  Training Data - 
- #^ -  Breeding Data - 
- #^ -  Type Defenses Data - 
+ 
+#^ -  Pokedex Data - 
+#^ -  Base Stats Data - 
+#^ -  Training Data - 
+#^ -  Breeding Data - 
+#^ -  Type Defenses Data - 
 
 **✓ Questions they hope to answer with the data**					
 
