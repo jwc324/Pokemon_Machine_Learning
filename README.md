@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="Pokémon Unity Logo" src="https://user-images.githubusercontent.com/75700317/123180782-f99e2180-d459-11eb-9767-ebd980a2a306.png" />
+  <img src="https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/pokeball_image.png" width="250" height="250" />
   <h1 align="center">Pokémon Machine Learning</h1>
   <p align="center">
-
-
+  
+ 
 # Pokemon_Machine_Learning
 Final Project for Columbia Data Analytics Boot Camp
 
