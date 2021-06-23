@@ -1,6 +1,5 @@
 <p align="center">
-  <h1 align="center">![pokeball_PNG21](https://user-images.githubusercontent.com/75700317/123180782-f99e2180-d459-11eb-9767-ebd980a2a306.png)
-</h1>
+  ![pokeball_PNG21](https://user-images.githubusercontent.com/75700317/123180782-f99e2180-d459-11eb-9767-ebd980a2a306.png)
   <p align="center">
 
 
