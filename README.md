@@ -1,5 +1,6 @@
 <p align="center">
-  ![pokeball_PNG21](https://user-images.githubusercontent.com/75700317/123180782-f99e2180-d459-11eb-9767-ebd980a2a306.png)
+  <img alt="Pokémon Unity Logo" src="https://user-images.githubusercontent.com/75700317/123180782-f99e2180-d459-11eb-9767-ebd980a2a306.png)" />
+  <h1 align="center">Pokémon Machine Learning</h1>
   <p align="center">
 
 
