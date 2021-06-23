@@ -12,14 +12,13 @@ Team members have drafted their project, including the following:
 **✓ Reason why they selected their topic**
 - Cultural resurgence of Pokemon and a growing trove of data
 
-✓ Description of their source of data
- - This is a robust dataset containing the entire catalogue of..... broken down by the following details:
- 
-#^ -  Pokedex Data - 
-#^ -  Base Stats Data - 
-#^ -  Training Data - 
-#^ -  Breeding Data - 
-#^ -  Type Defenses Data - 
+**✓ Description of their source of data**
+- This is a robust dataset containing the entire catalogue of..... broken down by the following details:
+  - Pokedex Data - 
+  - Base Stats Data - 
+  - Training Data - 
+  - Breeding Data - 
+  - Type Defenses Data - 
 
 **✓ Questions they hope to answer with the data**					
 
