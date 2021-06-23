@@ -1,3 +1,9 @@
+<p align="center">
+  <img alt="Pokémon Unity Logo" src="https://styles.redditmedia.com/t5_39moy/styles/bannerPositionedImage_6is405sk53j01.png" />
+  <h1 align="center">Pokémon Unity by IIcolour Spectrum</h1>
+  <p align="center">
+
+
 # Pokemon_Machine_Learning
 Final Project for Columbia Data Analytics Boot Camp
 
@@ -6,13 +12,13 @@ Content
 Team members have drafted their project, including the following:					
 
 ### __Presentation__
-**✓ Selected topic**
+**Selected topic**
  - Storytelling through the data exploration of Pokemon across 7 generation 
 
-**✓ Reason why they selected their topic**
+**Reason why they selected their topic**
 - Cultural resurgence of Pokemon and a growing trove of data
 
-**✓ Description of their source of data**
+**Description of their source of data**
 - This is a robust dataset containing the entire catalogue of..... broken down by the following details:
   - Pokedex Data - 
   - Base Stats Data - 
@@ -20,9 +26,10 @@ Team members have drafted their project, including the following:
   - Breeding Data - 
   - Type Defenses Data - 
 
-**✓ Questions they hope to answer with the data**					
 
+**Questions we aim to answer with our data**					
 1. Showcase a data-lead restrospective on the generations of Pokemon 
+
 
 ### __GitHub__
 **Communication Protocols** 
@@ -34,11 +41,11 @@ Team members have drafted their project, including the following:
 
 ### Database
 
-✓ Sample data that mimics the expected final database structure or schema
+Sample data that mimics the expected final database structure or schema
 
 
 
-✓ Draft machine learning module is connected to the provisional database
+Draft machine learning module is connected to the provisional database
 ***question for TA's***
 
 
