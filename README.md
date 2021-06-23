@@ -4,7 +4,49 @@ Final Project for Columbia Data Analytics Boot Camp
 ## SEGMENT 1 	 	 		
 Content
 Team members have drafted their project, including the following:					
-✓ Selected topic
-✓ Reason why they selected their topic
+
+### __Presentation__
+**✓ Selected topic**
+ - Storytelling through the data exploration of Pokemon across 7 generation 
+
+**✓ Reason why they selected their topic**
+- Cultural resurgence of Pokemon and a growing trove of data
+
 ✓ Description of their source of data
-✓ Questions they hope to answer with the data					
+ - This is a robust dataset containing the entire catalogue of..... broken down by the following details:
+ #^ -  Pokedex Data - 
+ #^ -  Base Stats Data - 
+ #^ -  Training Data - 
+ #^ -  Breeding Data - 
+ #^ -  Type Defenses Data - 
+
+**✓ Questions they hope to answer with the data**					
+
+1. Showcase a data-lead restrospective on the generations of Pokemon 
+
+### __GitHub__
+**Communication Protocols** 
+***question for TA's***
+
+### Machine Learning Model
+***question for TA's***
+
+
+### Database
+
+✓ Sample data that mimics the expected final database structure or schema
+
+
+
+✓ Draft machine learning module is connected to the provisional database
+***question for TA's***
+
+
+
+
+
+
+
+
+
+
