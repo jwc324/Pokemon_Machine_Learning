@@ -31,32 +31,32 @@ Team members have drafted their project, including the following:
 Showcase a data-led retrospective on 7 Generations of Pokemon.  
 **Starter** questions:
 1. **Exploration of the characters.**  Show the distribution of _____ with each generation:
---* Types
---* Gender
---* Abilities
---* How to visualize?
+- Types
+- Gender
+- Abilities
+- How to visualize?
 
 2. **Collecting them all.** How does gameplay change with each generation? Compare ____ across generations:
---* Catch-rates
---* Egg-cycles
---* Base Experience
---* How to visualize?
+- Catch-rates
+- Egg-cycles
+- Base Experience
+- How to visualize?
 
 3. **Fun Facts!**
---* How many Pokemon do not have evolutions?
----* What is their species make-up?
---* Who are the top 10% unfriendliest Pokemon?
---* Who are the top 10% friendliest Pokemon?
----* Are there any trends here? Gender/Type/Species
+- How many Pokemon do not have evolutions?
+-- What is their species make-up?
+- Who are the top 10% unfriendliest Pokemon?
+- Who are the top 10% friendliest Pokemon?
+-- Are there any trends here? Gender/Type/Species
 --* Any other features at all - the list is endless
 
 4. **What's your Pokemon's aura?**
---* [Shirley Wu - Film Flowers inspo?](https://shirleywu.studio/filmflowers/)
+- [Shirley Wu - Film Flowers inspo?](https://shirleywu.studio/filmflowers/)
 
-5. **Sandbox**
---* Build your own pokemon? 
+5. **Interactive Sandbox**
+- Build your own pokemon? 
 Enter base stats and use machine learning to categorize your new pokemon by type
---* would need to know:
+-- would need to know:
 --- Are there correlations between base stats and the primary type of pokemon? If not, what correlations can we pull? maybe type vs these base stats. [example](https://www.kaggle.com/anhiva/pok-mon-group-classifier?scriptVersionId=40305036&cellId=15)
 
 
