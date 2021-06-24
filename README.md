@@ -7,7 +7,6 @@
 Final Project for Columbia Data Analytics Boot Camp
 
 ## SEGMENT 1 	 	 				
----
 
 ### __Presentation__
 **Selected topic**
@@ -80,6 +79,15 @@ Draft machine learning module is connected to the provisional database
 ## SEGMENT 2 	 	 				
 ---
 
+
+  
+## SEGMENT 3 	 	 				
+---
+
+  
+
+## SEGMENT 4 	 	 				
+---
 
 
 
