@@ -23,7 +23,7 @@ Team members have drafted their project, including the following:
   - Base Stats Data - each individual value that determines a Pokemon's skills, strengths, weaknessess and overall abilities  
   - Training Data -  quantifed efforts for leveling up, upskilling and evolving your pokemon
   - Breeding Data - detailed data on which types of Pokemon species can breed and what they evolve into   
-  - Type Defenses Data - data on the 
+  - Type Defenses Data - data that determines a Pokemon's resistance against physical attacks 
 
 
 **Questions we aim to answer with our data**					
