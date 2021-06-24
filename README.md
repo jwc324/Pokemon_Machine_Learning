@@ -18,12 +18,12 @@ Team members have drafted their project, including the following:
 - Cultural resurgence of Pokemon and a growing trove of data
 
 **Description of their source of data**
-- This is a robust dataset containing the entire catalogue of..... broken down by the following details:
-  - Pokedex Data - 
-  - Base Stats Data - 
-  - Training Data - 
-  - Breeding Data - 
-  - Type Defenses Data - 
+- This is a robust dataset containing the entire catalogue of the Pokemon universe broken down by the following details:
+  - Pokedex Data - a catalogue of all detailed Pokemon species and features  
+  - Base Stats Data - each individual value that determines a Pokemon's skills, strengths, weaknessess and overall abilities  
+  - Training Data -  quantifed efforts for leveling up, upskilling and evolving your pokemon
+  - Breeding Data - detailed data on which types of Pokemon species can breed and what they evolve into   
+  - Type Defenses Data - data on the 
 
 
 **Questions we aim to answer with our data**					
