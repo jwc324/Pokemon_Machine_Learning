@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/75700317/123341397-e489c700-d51b-11eb-9702-eddbb6f54b20.png" />
+  <img src="https://user-images.githubusercontent.com/75700317/123341397-e489c700-d51b-11eb-9702-eddbb6f54b20.png" width="200" height="400"/>
   <h1 align="center">Pokémon Machine Learning</h1>
   <p align="center">
   
