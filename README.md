@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/pokeball_image.png" width="250" height="250" />
+  <img src="https://user-images.githubusercontent.com/75700317/123341397-e489c700-d51b-11eb-9702-eddbb6f54b20.png" />
   <h1 align="center">Pokémon Machine Learning</h1>
   <p align="center">
   
