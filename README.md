@@ -26,7 +26,7 @@ Final Project for Columbia Data Analytics Boot Camp
   - Breeding Data - detailed data on which types of Pokemon species can breed and what they evolve into   
   - Type Defenses Data - data that determines a Pokemon's resistance against physical attacks
 
-<br>                              </br>[Link to original dataset](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;[Link to original dataset](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)
 
 
     
