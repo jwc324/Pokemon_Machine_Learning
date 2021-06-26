@@ -52,6 +52,6 @@ CREATE TABLE pokemon_data_table (
 	against_dark REAL,
 	against_steel REAL,
 	against_fairy REAL,
-PRIMARY KEY (pokedex_number),
+PRIMARY KEY (index_column),
 UNIQUE (english_name)
 );
