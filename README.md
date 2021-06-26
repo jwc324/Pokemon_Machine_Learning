@@ -17,7 +17,7 @@ Final Project for Columbia Data Analytics Boot Camp
 
 ### About the Data
 <p align="center">
-  <b>[Link to original dataset](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)</b><br>
+  [Link to original dataset](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)
 </p>
 - This is a robust dataset containing the entire catalogue of the Pokemon universe broken down by the following details:
   - Pokedex Data - a catalogue of all detailed Pokemon species and features  
@@ -25,9 +25,9 @@ Final Project for Columbia Data Analytics Boot Camp
   - Training Data -  quantifed efforts for leveling up, upskilling and evolving your pokemon
   - Breeding Data - detailed data on which types of Pokemon species can breed and what they evolve into   
   - Type Defenses Data - data that determines a Pokemon's resistance against physical attacks
-<p align="center">
-  [Link to original dataset](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)
-  </p align="center">
+
+- [Link to original dataset](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)
+
 
     
   
