@@ -16,14 +16,13 @@ Final Project for Columbia Data Analytics Boot Camp
 - Pokemon has had a cultural resurgence in recent years, all leading to the 25th Anniversary of Pokemon in October 2021.  Already a cultural phenomenon in itself, in 2021, the franchise is celebrating a milestone anniversary while consumers are yearning for nostalgia and simple pleasures.  We're taking a look at how the original Pokedex has evolved across 7 Generations. _Pun intended._
 
 ### About the Data
+                              [Link to original dataset](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)
 - This is a robust dataset containing the entire catalogue of the Pokemon universe broken down by the following details:
   - Pokedex Data - a catalogue of all detailed Pokemon species and features  
   - Base Stats Data - each individual value that determines a Pokemon's skills, strengths, weaknessess and overall abilities  
   - Training Data -  quantifed efforts for leveling up, upskilling and evolving your pokemon
   - Breeding Data - detailed data on which types of Pokemon species can breed and what they evolve into   
   - Type Defenses Data - data that determines a Pokemon's resistance against physical attacks
-- [Link to original dataset](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)
-
 
 ### Data Use-Cases				
 Showcase a data-led retrospective on 7 Generations of Pokemon.  
