@@ -24,8 +24,9 @@ Final Project for Columbia Data Analytics Boot Camp
   - Type Defenses Data - data that determines a Pokemon's resistance against physical attacks
 <p align="center">
   [Link to original dataset](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)
-  <p align="center">
+  </p align="center">
 
+    
   
 ### Data Use-Cases				
 Showcase a data-led retrospective on 7 Generations of Pokemon.  
