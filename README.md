@@ -6,7 +6,9 @@
  
 Final Project for Columbia Data Analytics Boot Camp
 
-#### Shortcuts: [SEGMENT 2](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-2) | [SEGMENT 3](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-3)
+#### Shortcuts: [SEGMENT 2](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-2) | [SEGMENT 3](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-3) | [SEGMENT 4](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-4)
+  
+  
   
 ## SEGMENT 1 	 	 				
 
