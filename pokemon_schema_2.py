@@ -1,13 +1,11 @@
-CREATE TABLE pokemon_data_table-2 (
+CREATE TABLE pokemon_data_table_2 (
 	index_column INT,
 	pokedex_number INT,
 	english_name VARCHAR,
 	german_name VARCHAR,
 	japanese_name VARCHAR,
 	generation INT,
-	is_sub_legendary INT,
-	is_legendary INT,
-	is_mythical INT,
+	status VARCHAR,
 	species VARCHAR,
 	type_number INT,
 	type_1 VARCHAR,
