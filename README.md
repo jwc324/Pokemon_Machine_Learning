@@ -22,7 +22,7 @@ Final Project for Columbia Data Analytics Boot Camp
   - Training Data -  quantifed efforts for leveling up, upskilling and evolving your pokemon
   - Breeding Data - detailed data on which types of Pokemon species can breed and what they evolve into   
   - Type Defenses Data - data that determines a Pokemon's resistance against physical attacks
-- [Link to original dataset](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)  
+<p align="center">- [Link to original dataset](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)  
 
   
 ### Data Use-Cases				
