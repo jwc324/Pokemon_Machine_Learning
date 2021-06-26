@@ -6,6 +6,8 @@
  
 Final Project for Columbia Data Analytics Boot Camp
 
+### Shortcuts: [SEGMENT 2](#SEGMENT 2) 
+  
 ## SEGMENT 1 	 	 				
 
 ### __Presentation__
