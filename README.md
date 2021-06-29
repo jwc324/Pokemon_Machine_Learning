@@ -87,6 +87,8 @@ Draft machine learning module is connected to the provisional database
 
 ## SEGMENT 2 	 	 				
 ---
+**Segment Shortcuts:**
+| [SEGMENT 1](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-1) | [SEGMENT 2](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-2) | [SEGMENT 3](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-3) | [SEGMENT 4](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-4) |
 			
 **Slides**
 Presentations are drafted in Google Slides. 
@@ -146,6 +148,9 @@ A blueprint for the dashboard is created and includes all of the following:
 
 ## SEGMENT 3 	 	 				
 ---
+**Segment Shortcuts:**
+| [SEGMENT 1](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-1) | [SEGMENT 2](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-2) | [SEGMENT 3](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-3) | [SEGMENT 4](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-4) |
+
 Presentation
 
 Github
@@ -160,7 +165,10 @@ Dashboard
 
 ## SEGMENT 4 	 	 				
 ---
-  Presentation
+**Segment Shortcuts:**
+| [SEGMENT 1](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-1) | [SEGMENT 2](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-2) | [SEGMENT 3](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-3) | [SEGMENT 4](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-4) |
+  
+Presentation
 
 Github
 
