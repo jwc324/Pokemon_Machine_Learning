@@ -92,8 +92,27 @@ Draft machine learning module is connected to the provisional database
 
 ## SEGMENT 3 	 	 				
 ---
+Presentation
+
+Github
+
+Machine Learning Model
+
+Database
+
+Dashboard
 
 
 
 ## SEGMENT 4 	 	 				
 ---
+  Presentation
+
+Github
+
+Machine Learning Model
+
+Database
+
+Dashboard
+
