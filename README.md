@@ -86,8 +86,7 @@ Draft machine learning module is connected to the provisional database
 
 
 ## SEGMENT 2 	 	 				
----
-**Segment Shortcuts:**
+---**Segment Shortcuts:**
 | [SEGMENT 1](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-1) | [SEGMENT 2](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-2) | [SEGMENT 3](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-3) | [SEGMENT 4](https://github.com/jwc324/Pokemon_Machine_Learning/blob/main/README.md#segment-4) |
 			
 **Slides**
