@@ -1,0 +1,1 @@
+pokedb_password = 'teachme1.'
