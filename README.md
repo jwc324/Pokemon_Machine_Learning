@@ -78,9 +78,18 @@ Draft machine learning module is connected to the provisional database
 
 ## SEGMENT 2 	 	 				
 ---
+Progress since Segment 1:
+### Presentation
+* Added ERD chart
+* Storyboarding in process
+
+### Data Use-Cases
+* Started making pseudocode for both bubble chart and machine learning modules
+
+###Database
+Merged csv files and pushed to our own PostgreSQL local databases. Ready to query!
 
 
-  
 ## SEGMENT 3 	 	 				
 ---
 
