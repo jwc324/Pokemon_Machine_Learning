@@ -86,7 +86,7 @@ Progress since Segment 1:
 ### Data Use-Cases
 * Started making pseudocode for both bubble chart and machine learning modules
 
-###Database
+### Database
 Merged csv files and pushed to our own PostgreSQL local databases. Ready to query!
 
 
