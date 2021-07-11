@@ -80,6 +80,7 @@ Draft machine learning module is connected to the provisional database
 ---
 Progress since Segment 1:
 ### Presentation
+* See [Presentation Slides](https://docs.google.com/presentation/d/1UZZrxyFtUeezrmy0-gR9yAYyR5UhkKb7bfHmt34H6mc/edit?usp=sharing)
 * Added ERD chart
 * Storyboarding in process
 
