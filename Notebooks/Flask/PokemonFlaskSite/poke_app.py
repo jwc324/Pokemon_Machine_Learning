@@ -108,6 +108,55 @@ if request.method =="POST":
     against_steel = float(form_data["against_steel"])
     against_fairy = float(form_data["against_fairy"])
 
+
+
+    form_data = [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+    
+    form_data[0][0] = status
+    form_data[0][1] = species
+    form_data[0][2] = type_2
+    form_data[0][3] = height_m
+    form_data[0][4] = weight_kg
+    form_data[0][5] = ability_1
+    form_data[0][6] = ability_2
+    form_data[0][7] = ability_hidden
+    form_data[0][8] = total_points
+    form_data[0][9] = hp
+    form_data[0][10] = attack
+    form_data[0][11] = defense
+    form_data[0][12] = sp_attack
+    form_data[0][13] = sp_defense
+    form_data[0][14] = speed
+    form_data[0][15] = catch_rate
+    form_data[0][16] = base_friendship
+    form_data[0][17] = base_experience
+    form_data[0][18] = growth_rate
+    form_data[0][19] = egg_type_number
+    form_data[0][20] = egg_type_1
+    form_data[0][21] = egg_type_2
+    form_data[0][22] = percentage_male
+    form_data[0][23] = egg_cycles
+    form_data[0][24] = against_normal
+    form_data[0][25] = against_fire
+    form_data[0][26] = against_water
+    form_data[0][27] = against_electric
+    form_data[0][28] = against_grass
+    form_data[0][29] = against_ice
+    form_data[0][30] = against_fight
+    form_data[0][31] = against_poison
+    form_data[0][32] = against_ground
+    form_data[0][33] = against_flying
+    form_data[0][34] = against_psychic
+    form_data[0][35] = against_bug
+    form_data[0][36] = against_rock
+    form_data[0][37] = against_ghost
+    form_data[0][38] = against_dragon
+    form_data[0][39] = against_dark
+    form_data[0][40] = against_steel
+    form_data[0][41] = against_fairy
+
+    form_array = np.asarray(form_data, dtype=np.float32) 
+
     ## Need to organize all of the above variables into an ENCODED array
         ## need to take inputs and encode them, using an ordinal encoder... sample code below:
         #   oe = OrdinalEncoder()
