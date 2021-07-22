@@ -157,6 +157,22 @@ if request.method =="POST":
 
     form_array = np.asarray(form_data, dtype=np.float32) 
 
+
+    # Encode all data
+
+    oe = OrdinalEncoder()
+    x_enc = oe.fit_transform(x)
+
+    from sklearn.model_selection import train_test_split
+    x_train, x_test, y_train, y_test = train_test_split(x_enc,
+        y,  random_state=42)
+    print(x_train.shape)
+    print(x_test.shape)
+    print(y_train.shape)
+    print(y_test.shape)
+
+
+
     ## Need to organize all of the above variables into an ENCODED array
         ## need to take inputs and encode them, using an ordinal encoder... sample code below:
         #   oe = OrdinalEncoder()
@@ -187,3 +203,37 @@ if request.method =="POST":
 
 if __name__ == '__main__':
     app.run()
+
+<body>
+    <div class="panel panel-default">
+        <div class="panel-heading">Filter Search</div>
+        <div class="panel-body">
+            <div class="form-group">
+                <ul class="list-group" id="filters">
+                    <li class="filter list-group-item">
+                        <label for="date">Enter a Date</label>
+                        <input class="form-control" id="datetime" type="text" placeholder="1/11/2011">
+                    </li>
+                    <li class="filter list-group-item">
+                        <label for="city">Enter a City</label>
+                        <input class="form-control" id="city" type="text" placeholder="roswell">
+                    </li>
+                    <li class="filter list-group-item">
+                        <label for="state">Enter a State</label>
+                        <input class="form-control" id="state" type="text" placeholder="ca">
+                    </li>
+                    <li class="filter list-group-item">
+                        <label for="country">Enter a Country</label>
+                        <input class="form-control" id="country" type="text" placeholder="us">
+                    </li>
+                    <li class="filter list-group-item">
+                        <label for="shape">Select a Shape</label>
+                        <input class="form-control" id="shape" type="text" placeholder="circle">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <h1>Price Per Ticket</h1>
+    <h1>{{pricePerTicket}}</h1>
+</body>
