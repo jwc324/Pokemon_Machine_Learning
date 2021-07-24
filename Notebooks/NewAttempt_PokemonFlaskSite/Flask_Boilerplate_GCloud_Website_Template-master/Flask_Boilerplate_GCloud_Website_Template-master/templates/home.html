@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="starter-template">
+  <h1>Title of Final Project</h1>
+  <p class="lead"><i>Subtitle of Project</i></p>
+</div>
+<h3>{{pokemontypeprediction}}</h3>
+<form id="predictions-form" method="POST" action="/generateprediction">
+</form>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+<script src="{{url_for('static', filename='js/home.js')}}"></script>
+
+{% endblock %}

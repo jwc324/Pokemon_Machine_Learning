@@ -108,6 +108,7 @@ if request.method =="POST":
     against_steel = float(form_data["against_steel"])
     against_fairy = float(form_data["against_fairy"])
 
+    return render_template('predictions.html', PokemonPrimaryType='RETRY') 
     ## Need to organize all of the above variables into an ENCODED array
         ## need to take inputs and encode them, using an ordinal encoder... sample code below:
         #   oe = OrdinalEncoder()
@@ -132,8 +133,8 @@ if request.method =="POST":
 
         #     return render_template('predictions.html', pricePerTicket=PricePerTicket)
 
-    except:
-        return render_template('predictions.html', PokemonPrimaryType='RETRY') 
+    # except:
+    # return render_template('predictions.html', PokemonPrimaryType='RETRY') 
         # Need to make sure html file can output {{PokemonPrimaryType}}
 
 if __name__ == '__main__':
