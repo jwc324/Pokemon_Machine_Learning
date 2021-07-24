@@ -5,6 +5,26 @@
   
  
 Final Project for Columbia Data Analytics Boot Camp
+*Gotta data preprocess them all!*
+
+## Welcome! Explore our project.
+
+We want to showcase our data storytelling skills.
+Visit our [presentation deck](https://docs.google.com/presentation/d/1UZZrxyFtUeezrmy0-gR9yAYyR5UhkKb7bfHmt34H6mc/edit?usp=sharing) for our vision
+
+We are continuing to build our project out more elaborately. What's next:
+
+- Retrospective Bubble Chart
+	- Adding ToolTips
+	- Adding more insights
+	- Fine-tune animations
+	- Increase UX capabilities
+- AI Interactive Experience
+	- Further refine machine learning algo
+	- Merge with Retrospective Bubble Chart to make a cohesive experience
+	- Add machine learning to the js modules
+
+<br></br>
 
 ## SEGMENT 1 	 	 				
 
