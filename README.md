@@ -24,7 +24,8 @@ We are continuing to build our project out more elaborately. What's next:
 	- Merge with Retrospective Bubble Chart to make a cohesive experience
 	- Add machine learning to the js modules
 
-<br></br>
+---
+# Weekly Segment Submission Log
 
 ## SEGMENT 1 	 	 				
 
