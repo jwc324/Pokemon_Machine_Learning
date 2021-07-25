@@ -1,0 +1,931 @@
+﻿index,index_column,pokedex_number,name,generation,type_1,total_points,hp,hp_group,attack,attack_group,speed,speed_group,base_friendship,base_friendship_group
+941,941,805,Stakataka,7,Rock,570,61,less than a hundred,131,greater than a hundred,13,less than a hundred,0,meanest
+922,922,789,Cosmog,7,Psychic,200,43,less than a hundred,29,less than a hundred,37,less than a hundred,0,meanest
+923,923,790,Cosmoem,7,Psychic,400,43,less than a hundred,29,less than a hundred,37,less than a hundred,0,meanest
+932,932,799,Guzzlord,7,Dark,570,223,greater than a hundred,101,greater than a hundred,43,less than a hundred,0,meanest
+904,904,772,Type: Null,7,Normal,534,95,less than a hundred,95,less than a hundred,59,less than a hundred,0,meanest
+930,930,797,Celesteela,7,Steel,570,97,less than a hundred,101,greater than a hundred,61,less than a hundred,0,meanest
+937,937,801,Magearna,7,Steel,600,80,less than a hundred,95,less than a hundred,65,less than a hundred,0,meanest
+939,939,803,Poipole,7,Poison,420,67,less than a hundred,73,less than a hundred,73,less than a hundred,0,meanest
+935,935,800,Dawn Wings Necrozma,7,Psychic,680,97,less than a hundred,113,greater than a hundred,77,less than a hundred,0,meanest
+934,934,800,Dusk Mane Necrozma,7,Psychic,680,97,less than a hundred,157,greater than a hundred,77,less than a hundred,0,meanest
+933,933,800,Necrozma,7,Psychic,600,97,less than a hundred,107,greater than a hundred,79,less than a hundred,0,meanest
+927,927,794,Buzzwole,7,Bug,570,107,greater than a hundred,139,greater than a hundred,79,less than a hundred,0,meanest
+929,929,796,Xurkitree,7,Electric,570,83,less than a hundred,89,less than a hundred,83,less than a hundred,0,meanest
+512,512,427,Buneary,4,Normal,350,55,less than a hundred,66,less than a hundred,85,less than a hundred,0,meanest
+841,841,718,Zygarde Complete Forme,6,Dragon,708,216,greater than a hundred,100,greater than a hundred,85,less than a hundred,0,meanest
+468,468,386,Deoxys Defense Forme,3,Psychic,600,50,less than a hundred,70,less than a hundred,90,less than a hundred,0,meanest
+459,459,382,Kyogre,3,Water,670,100,greater than a hundred,100,greater than a hundred,90,less than a hundred,0,meanest
+582,582,487,Giratina Altered Forme,4,Ghost,680,150,greater than a hundred,100,greater than a hundred,90,less than a hundred,0,meanest
+578,578,483,Dialga,4,Steel,680,100,greater than a hundred,120,greater than a hundred,90,less than a hundred,0,meanest
+750,750,643,Reshiram,5,Dragon,680,100,greater than a hundred,120,greater than a hundred,90,less than a hundred,0,meanest
+583,583,487,Giratina Origin Forme,4,Ghost,680,150,greater than a hundred,120,greater than a hundred,90,less than a hundred,0,meanest
+303,303,250,Ho-oh,2,Fire,680,106,greater than a hundred,130,greater than a hundred,90,less than a hundred,0,meanest
+751,751,644,Zekrom,5,Dragon,680,100,greater than a hundred,150,greater than a hundred,90,less than a hundred,0,meanest
+460,460,382,Primal Kyogre,3,Water,770,100,greater than a hundred,150,greater than a hundred,90,less than a hundred,0,meanest
+461,461,383,Groudon,3,Ground,670,100,greater than a hundred,150,greater than a hundred,90,less than a hundred,0,meanest
+462,462,383,Primal Groudon,3,Ground,770,100,greater than a hundred,180,greater than a hundred,90,less than a hundred,0,meanest
+905,905,773,Silvally,7,Normal,570,95,less than a hundred,95,less than a hundred,95,less than a hundred,0,meanest
+839,839,718,Zygarde 50% Forme,6,Dragon,600,108,greater than a hundred,100,greater than a hundred,95,less than a hundred,0,meanest
+756,756,646,White Kyurem,5,Dragon,700,125,greater than a hundred,120,greater than a hundred,95,less than a hundred,0,meanest
+754,754,646,Kyurem,5,Dragon,660,125,greater than a hundred,130,greater than a hundred,95,less than a hundred,0,meanest
+463,463,384,Rayquaza,3,Dragon,680,105,greater than a hundred,150,greater than a hundred,95,less than a hundred,0,meanest
+755,755,646,Black Kyurem,5,Dragon,700,125,greater than a hundred,170,greater than a hundred,95,less than a hundred,0,meanest
+925,925,792,Lunala,7,Psychic,680,137,greater than a hundred,113,greater than a hundred,97,less than a hundred,0,meanest
+924,924,791,Solgaleo,7,Psychic,680,137,greater than a hundred,137,greater than a hundred,97,less than a hundred,0,meanest
+761,761,649,Genesect,5,Bug,600,71,less than a hundred,120,greater than a hundred,99,less than a hundred,0,meanest
+838,838,717,Yveltal,6,Dark,680,126,greater than a hundred,131,greater than a hundred,99,less than a hundred,0,meanest
+837,837,716,Xerneas,6,Fairy,680,126,greater than a hundred,131,greater than a hundred,99,less than a hundred,0,meanest
+579,579,484,Palkia,4,Water,680,90,less than a hundred,120,greater than a hundred,100,greater than a hundred,0,meanest
+581,581,486,Regigigas,4,Normal,670,110,greater than a hundred,160,greater than a hundred,100,greater than a hundred,0,meanest
+926,926,793,Nihilego,7,Rock,570,109,greater than a hundred,53,less than a hundred,103,greater than a hundred,0,meanest
+942,942,806,Blacephalon,7,Fire,570,53,less than a hundred,127,greater than a hundred,107,greater than a hundred,0,meanest
+931,931,798,Kartana,7,Grass,570,59,less than a hundred,181,greater than a hundred,109,greater than a hundred,0,meanest
+302,302,249,Lugia,2,Psychic,680,106,greater than a hundred,90,less than a hundred,110,greater than a hundred,0,meanest
+840,840,718,Zygarde 10% Forme,6,Dragon,486,54,less than a hundred,100,greater than a hundred,115,greater than a hundred,0,meanest
+464,464,384,Mega Rayquaza,3,Dragon,780,105,greater than a hundred,180,greater than a hundred,115,greater than a hundred,0,meanest
+590,590,493,Arceus,4,Normal,720,120,greater than a hundred,120,greater than a hundred,120,greater than a hundred,0,meanest
+940,940,804,Naganadel,7,Poison,540,73,less than a hundred,73,less than a hundred,121,greater than a hundred,0,meanest
+587,587,491,Darkrai,4,Dark,600,70,less than a hundred,90,less than a hundred,125,greater than a hundred,0,meanest
+938,938,802,Marshadow,7,Fighting,600,90,less than a hundred,125,greater than a hundred,125,greater than a hundred,0,meanest
+936,936,800,Ultra Necrozma,7,Psychic,754,97,less than a hundred,167,greater than a hundred,129,greater than a hundred,0,meanest
+193,193,150,Mewtwo,1,Psychic,680,106,greater than a hundred,110,greater than a hundred,130,greater than a hundred,0,meanest
+194,194,150,Mega Mewtwo X,1,Psychic,780,106,greater than a hundred,190,greater than a hundred,130,greater than a hundred,0,meanest
+195,195,150,Mega Mewtwo Y,1,Psychic,780,106,greater than a hundred,150,greater than a hundred,140,greater than a hundred,0,meanest
+943,943,807,Zeraora,7,Electric,600,88,less than a hundred,112,greater than a hundred,143,greater than a hundred,0,meanest
+466,466,386,Deoxys Normal Forme,3,Psychic,600,50,less than a hundred,150,greater than a hundred,150,greater than a hundred,0,meanest
+467,467,386,Deoxys Attack Forme,3,Psychic,600,50,less than a hundred,180,greater than a hundred,150,greater than a hundred,0,meanest
+928,928,795,Pheromosa,7,Bug,570,71,less than a hundred,137,greater than a hundred,151,greater than a hundred,0,meanest
+469,469,386,Deoxys Speed Forme,3,Psychic,600,50,less than a hundred,95,less than a hundred,180,greater than a hundred,0,meanest
+362,362,302,Mega Sableye,3,Dark,480,50,less than a hundred,85,less than a hundred,20,less than a hundred,35,average
+426,426,355,Duskull,3,Ghost,295,20,less than a hundred,40,less than a hundred,25,less than a hundred,35,average
+427,427,356,Dusclops,3,Ghost,455,40,less than a hundred,70,less than a hundred,25,less than a hundred,35,average
+448,448,374,Beldum,3,Steel,300,40,less than a hundred,55,less than a hundred,30,less than a hundred,35,average
+365,365,304,Aron,3,Steel,330,50,less than a hundred,70,less than a hundred,30,less than a hundred,35,average
+397,397,331,Cacnea,3,Grass,335,50,less than a hundred,85,less than a hundred,35,less than a hundred,35,average
+738,738,633,Deino,5,Dark,300,52,less than a hundred,65,less than a hundred,38,less than a hundred,35,average
+338,338,280,Ralts,3,Psychic,198,28,less than a hundred,25,less than a hundred,40,less than a hundred,35,average
+819,819,704,Goomy,6,Dragon,300,45,less than a hundred,50,less than a hundred,40,less than a hundred,35,average
+366,366,305,Lairon,3,Steel,430,60,less than a hundred,90,less than a hundred,40,less than a hundred,35,average
+298,298,246,Larvitar,2,Rock,300,50,less than a hundred,64,less than a hundred,41,less than a hundred,35,average
+423,423,353,Shuppet,3,Ghost,295,44,less than a hundred,75,less than a hundred,45,less than a hundred,35,average
+567,567,477,Dusknoir,4,Ghost,525,45,less than a hundred,100,greater than a hundred,45,less than a hundred,35,average
+662,662,559,Scraggy,5,Dark,348,50,less than a hundred,75,less than a hundred,48,less than a hundred,35,average
+339,339,281,Kirlia,3,Psychic,278,38,less than a hundred,35,less than a hundred,50,less than a hundred,35,average
+453,453,378,Regice,3,Ice,580,80,less than a hundred,50,less than a hundred,50,less than a hundred,35,average
+190,190,147,Dratini,1,Dragon,300,41,less than a hundred,64,less than a hundred,50,less than a hundred,35,average
+444,444,371,Bagon,3,Dragon,300,45,less than a hundred,75,less than a hundred,50,less than a hundred,35,average
+361,361,302,Sableye,3,Dark,380,50,less than a hundred,75,less than a hundred,50,less than a hundred,35,average
+449,449,375,Metang,3,Steel,420,60,less than a hundred,75,less than a hundred,50,less than a hundred,35,average
+454,454,379,Registeel,3,Steel,580,80,less than a hundred,75,less than a hundred,50,less than a hundred,35,average
+445,445,372,Shelgon,3,Dragon,420,65,less than a hundred,95,less than a hundred,50,less than a hundred,35,average
+452,452,377,Regirock,3,Rock,580,80,less than a hundred,100,greater than a hundred,50,less than a hundred,35,average
+367,367,306,Aggron,3,Steel,530,70,less than a hundred,110,greater than a hundred,50,less than a hundred,35,average
+368,368,306,Mega Aggron,3,Steel,630,70,less than a hundred,140,greater than a hundred,50,less than a hundred,35,average
+299,299,247,Pupitar,2,Rock,410,70,less than a hundred,84,less than a hundred,51,less than a hundred,35,average
+398,398,332,Cacturne,3,Grass,475,70,less than a hundred,115,greater than a hundred,55,less than a hundred,35,average
+714,714,610,Axew,5,Dragon,320,46,less than a hundred,87,less than a hundred,57,less than a hundred,35,average
+739,739,634,Zweilous,5,Dark,420,72,less than a hundred,85,less than a hundred,58,less than a hundred,35,average
+734,734,629,Vullaby,5,Dark,370,70,less than a hundred,55,less than a hundred,60,less than a hundred,35,average
+820,820,705,Sliggoo,6,Dragon,452,68,less than a hundred,75,less than a hundred,60,less than a hundred,35,average
+729,729,624,Pawniard,5,Dark,340,45,less than a hundred,85,less than a hundred,60,less than a hundred,35,average
+300,300,248,Tyranitar,2,Rock,600,100,greater than a hundred,134,greater than a hundred,61,less than a hundred,35,average
+279,279,228,Houndour,2,Dark,330,45,less than a hundred,60,less than a hundred,65,less than a hundred,35,average
+560,560,471,Glaceon,4,Ice,525,65,less than a hundred,60,less than a hundred,65,less than a hundred,35,average
+243,243,197,Umbreon,2,Dark,525,95,less than a hundred,65,less than a hundred,65,less than a hundred,35,average
+382,382,318,Carvanha,3,Water,305,45,less than a hundred,90,less than a hundred,65,less than a hundred,35,average
+424,424,354,Banette,3,Ghost,455,64,less than a hundred,115,greater than a hundred,65,less than a hundred,35,average
+715,715,611,Fraxure,5,Dragon,410,66,less than a hundred,117,greater than a hundred,67,less than a hundred,35,average
+191,191,148,Dragonair,1,Dragon,420,61,less than a hundred,84,less than a hundred,70,less than a hundred,35,average
+730,730,625,Bisharp,5,Dark,490,65,less than a hundred,125,greater than a hundred,70,less than a hundred,35,average
+450,450,376,Metagross,3,Steel,600,80,less than a hundred,135,greater than a hundred,70,less than a hundred,35,average
+516,516,430,Honchkrow,4,Dark,505,100,greater than a hundred,125,greater than a hundred,71,less than a hundred,35,average
+301,301,248,Mega Tyranitar,2,Rock,700,100,greater than a hundred,164,greater than a hundred,71,less than a hundred,35,average
+430,430,359,Absol,3,Dark,465,65,less than a hundred,130,greater than a hundred,75,less than a hundred,35,average
+425,425,354,Mega Banette,3,Ghost,555,64,less than a hundred,165,greater than a hundred,75,less than a hundred,35,average
+340,340,282,Gardevoir,3,Psychic,518,68,less than a hundred,65,less than a hundred,80,less than a hundred,35,average
+735,735,630,Mandibuzz,5,Dark,510,110,greater than a hundred,65,less than a hundred,80,less than a hundred,35,average
+821,821,706,Goodra,6,Dragon,600,90,less than a hundred,100,greater than a hundred,80,less than a hundred,35,average
+564,564,475,Gallade,4,Psychic,518,68,less than a hundred,125,greater than a hundred,80,less than a hundred,35,average
+192,192,149,Dragonite,1,Dragon,600,91,less than a hundred,134,greater than a hundred,80,less than a hundred,35,average
+247,247,200,Misdreavus,2,Ghost,435,60,less than a hundred,60,less than a hundred,85,less than a hundred,35,average
+297,297,245,Suicune,2,Water,580,100,greater than a hundred,75,less than a hundred,85,less than a hundred,35,average
+184,184,144,Articuno,1,Ice,580,90,less than a hundred,85,less than a hundred,85,less than a hundred,35,average
+189,189,146,Galarian Moltres,8,Dark,580,90,less than a hundred,85,less than a hundred,90,less than a hundred,35,average
+188,188,146,Moltres,1,Fire,580,90,less than a hundred,100,greater than a hundred,90,less than a hundred,35,average
+527,527,441,Chatot,4,Normal,411,76,less than a hundred,65,less than a hundred,91,less than a hundred,35,average
+244,244,198,Murkrow,2,Dark,405,60,less than a hundred,85,less than a hundred,91,less than a hundred,35,average
+185,185,144,Galarian Articuno,8,Psychic,580,90,less than a hundred,85,less than a hundred,95,less than a hundred,35,average
+280,280,229,Houndoom,2,Dark,500,75,less than a hundred,90,less than a hundred,95,less than a hundred,35,average
+559,559,470,Leafeon,4,Grass,525,65,less than a hundred,110,greater than a hundred,95,less than a hundred,35,average
+383,383,319,Sharpedo,3,Water,460,70,less than a hundred,120,greater than a hundred,95,less than a hundred,35,average
+716,716,612,Haxorus,5,Dragon,540,76,less than a hundred,147,greater than a hundred,97,less than a hundred,35,average
+740,740,635,Hydreigon,5,Dark,600,92,less than a hundred,105,greater than a hundred,98,less than a hundred,35,average
+341,341,282,Mega Gardevoir,3,Psychic,618,68,less than a hundred,85,less than a hundred,100,greater than a hundred,35,average
+186,186,145,Zapdos,1,Electric,580,90,less than a hundred,90,less than a hundred,100,greater than a hundred,35,average
+296,296,244,Entei,2,Fire,580,115,greater than a hundred,115,greater than a hundred,100,greater than a hundred,35,average
+187,187,145,Galarian Zapdos,8,Fighting,580,90,less than a hundred,125,greater than a hundred,100,greater than a hundred,35,average
+446,446,373,Salamence,3,Dragon,600,95,less than a hundred,135,greater than a hundred,100,greater than a hundred,35,average
+515,515,429,Mismagius,4,Ghost,495,60,less than a hundred,60,less than a hundred,105,greater than a hundred,35,average
+384,384,319,Mega Sharpedo,3,Water,560,70,less than a hundred,140,greater than a hundred,105,greater than a hundred,35,average
+757,757,647,Keldeo Ordinary Forme,5,Water,580,91,less than a hundred,72,less than a hundred,108,greater than a hundred,35,average
+758,758,647,Keldeo Resolute Forme,5,Water,580,91,less than a hundred,72,less than a hundred,108,greater than a hundred,35,average
+743,743,638,Cobalion,5,Steel,580,91,less than a hundred,90,less than a hundred,108,greater than a hundred,35,average
+745,745,640,Virizion,5,Grass,580,91,less than a hundred,90,less than a hundred,108,greater than a hundred,35,average
+744,744,639,Terrakion,5,Rock,580,91,less than a hundred,129,greater than a hundred,108,greater than a hundred,35,average
+451,451,376,Mega Metagross,3,Steel,700,80,less than a hundred,145,greater than a hundred,110,greater than a hundred,35,average
+565,565,475,Mega Gallade,4,Psychic,618,68,less than a hundred,165,greater than a hundred,110,greater than a hundred,35,average
+295,295,243,Raikou,2,Electric,580,90,less than a hundred,85,less than a hundred,115,greater than a hundred,35,average
+281,281,229,Mega Houndoom,2,Dark,600,75,less than a hundred,90,less than a hundred,115,greater than a hundred,35,average
+265,265,215,Sneasel,2,Dark,430,55,less than a hundred,95,less than a hundred,115,greater than a hundred,35,average
+431,431,359,Mega Absol,3,Dark,565,65,less than a hundred,150,greater than a hundred,115,greater than a hundred,35,average
+447,447,373,Mega Salamence,3,Dragon,700,95,less than a hundred,145,greater than a hundred,120,greater than a hundred,35,average
+550,550,461,Weavile,4,Dark,510,70,less than a hundred,120,greater than a hundred,125,greater than a hundred,35,average
+262,262,213,Shuckle,2,Bug,505,20,less than a hundred,10,less than a hundred,5,less than a hundred,70,average
+903,903,771,Pyukumuku,7,Water,410,55,less than a hundred,60,less than a hundred,5,less than a hundred,70,average
+533,533,446,Munchlax,4,Normal,390,135,greater than a hundred,85,less than a hundred,5,less than a hundred,70,average
+701,701,597,Ferroseed,5,Grass,305,44,less than a hundred,50,less than a hundred,10,less than a hundred,70,average
+524,524,438,Bonsly,4,Rock,290,50,less than a hundred,80,less than a hundred,10,less than a hundred,70,average
+394,394,328,Trapinch,3,Ground,290,45,less than a hundred,100,greater than a hundred,10,less than a hundred,70,average
+219,219,174,Igglybuff,2,Normal,210,90,less than a hundred,30,less than a hundred,15,less than a hundred,70,average
+887,887,755,Morelull,7,Grass,285,40,less than a hundred,35,less than a hundred,15,less than a hundred,70,average
+324,324,266,Silcoon,3,Bug,205,50,less than a hundred,35,less than a hundred,15,less than a hundred,70,average
+326,326,268,Cascoon,3,Bug,205,50,less than a hundred,35,less than a hundred,15,less than a hundred,70,average
+240,240,194,Wooper,2,Water,210,55,less than a hundred,45,less than a hundred,15,less than a hundred,70,average
+901,901,769,Sandygast,7,Ghost,320,55,less than a hundred,55,less than a hundred,15,less than a hundred,70,average
+694,694,590,Foongus,5,Grass,294,69,less than a hundred,55,less than a hundred,15,less than a hundred,70,average
+251,251,204,Pineco,2,Bug,290,50,less than a hundred,65,less than a hundred,15,less than a hundred,70,average
+103,103,79,Slowpoke,1,Water,315,90,less than a hundred,65,less than a hundred,15,less than a hundred,70,average
+104,104,79,Galarian Slowpoke,8,Psychic,315,90,less than a hundred,65,less than a hundred,15,less than a hundred,70,average
+621,621,524,Roggenrola,5,Rock,280,55,less than a hundred,75,less than a hundred,15,less than a hundred,70,average
+220,220,175,Togepi,2,Fairy,245,35,less than a hundred,20,less than a hundred,20,less than a hundred,70,average
+357,357,298,Azurill,3,Normal,190,50,less than a hundred,20,less than a hundred,20,less than a hundred,70,average
+681,681,577,Solosis,5,Psychic,290,45,less than a hundred,30,less than a hundred,20,less than a hundred,70,average
+711,711,607,Litwick,5,Ghost,275,50,less than a hundred,30,less than a hundred,20,less than a hundred,70,average
+268,268,218,Slugma,2,Fire,250,40,less than a hundred,40,less than a hundred,20,less than a hundred,70,average
+323,323,265,Wurmple,3,Bug,195,45,less than a hundred,45,less than a hundred,20,less than a hundred,70,average
+52,52,39,Jigglypuff,1,Normal,270,115,greater than a hundred,45,less than a hundred,20,less than a hundred,70,average
+206,206,161,Sentret,2,Normal,215,35,less than a hundred,46,less than a hundred,20,less than a hundred,70,average
+93,93,74,Geodude,1,Rock,300,40,less than a hundred,80,less than a hundred,20,less than a hundred,70,average
+94,94,74,Alolan Geodude,1,Rock,300,40,less than a hundred,80,less than a hundred,20,less than a hundred,70,average
+390,390,324,Torkoal,3,Fire,470,70,less than a hundred,85,less than a hundred,20,less than a hundred,70,average
+702,702,598,Ferrothorn,5,Grass,489,74,less than a hundred,94,less than a hundred,20,less than a hundred,70,average
+622,622,525,Boldore,5,Rock,390,70,less than a hundred,105,greater than a hundred,20,less than a hundred,70,average
+389,389,323,Mega Camerupt,3,Fire,560,70,less than a hundred,120,greater than a hundred,20,less than a hundred,70,average
+693,693,589,Escavalier,5,Bug,495,70,less than a hundred,135,greater than a hundred,20,less than a hundred,70,average
+668,668,564,Tirtouga,5,Water,355,54,less than a hundred,78,less than a hundred,22,less than a hundred,70,average
+432,432,360,Wynaut,3,Psychic,260,95,less than a hundred,23,less than a hundred,23,less than a hundred,70,average
+522,522,436,Bronzor,4,Steel,300,57,less than a hundred,24,less than a hundred,23,less than a hundred,70,average
+412,412,345,Lileep,3,Rock,355,66,less than a hundred,41,less than a hundred,23,less than a hundred,70,average
+797,797,682,Spritzee,6,Fairy,341,78,less than a hundred,52,less than a hundred,23,less than a hundred,70,average
+614,614,517,Munna,5,Psychic,292,76,less than a hundred,25,less than a hundred,24,less than a hundred,70,average
+484,484,401,Kricketot,4,Bug,194,37,less than a hundred,25,less than a hundred,25,less than a hundred,70,average
+720,720,616,Shelmet,5,Bug,305,50,less than a hundred,40,less than a hundred,25,less than a hundred,70,average
+436,436,363,Spheal,3,Ice,290,70,less than a hundred,40,less than a hundred,25,less than a hundred,70,average
+355,355,296,Makuhita,3,Fighting,237,72,less than a hundred,60,less than a hundred,25,less than a hundred,70,average
+59,59,46,Paras,1,Bug,285,35,less than a hundred,70,less than a hundred,25,less than a hundred,70,average
+117,117,88,Alolan Grimer,1,Poison,325,80,less than a hundred,80,less than a hundred,25,less than a hundred,70,average
+116,116,88,Grimer,1,Poison,325,80,less than a hundred,80,less than a hundred,25,less than a hundred,70,average
+145,145,111,Rhyhorn,1,Ground,345,80,less than a hundred,85,less than a hundred,25,less than a hundred,70,average
+623,623,526,Gigalith,5,Rock,515,85,less than a hundred,135,greater than a hundred,25,less than a hundred,70,average
+883,883,751,Dewpider,7,Water,269,38,less than a hundred,40,less than a hundred,27,less than a hundred,70,average
+352,352,293,Whismur,3,Normal,240,64,less than a hundred,51,less than a hundred,28,less than a hundred,70,average
+833,833,712,Bergmite,6,Ice,304,55,less than a hundred,69,less than a hundred,28,less than a hundred,70,average
+793,793,679,Honedge,6,Steel,325,45,less than a hundred,80,less than a hundred,28,less than a hundred,70,average
+834,834,713,Avalugg,6,Ice,514,95,less than a hundred,117,greater than a hundred,28,less than a hundred,70,average
+778,778,665,Spewpa,6,Bug,213,45,less than a hundred,22,less than a hundred,29,less than a hundred,70,average
+615,615,518,Musharna,5,Psychic,487,116,greater than a hundred,55,less than a hundred,29,less than a hundred,70,average
+798,798,683,Aromatisse,6,Fairy,462,101,greater than a hundred,72,less than a hundred,29,less than a hundred,70,average
+14,14,11,Metapod,1,Bug,205,50,less than a hundred,20,less than a hundred,30,less than a hundred,70,average
+237,237,191,Sunkern,2,Grass,180,30,less than a hundred,30,less than a hundred,30,less than a hundred,70,average
+665,665,562,Yamask,5,Ghost,303,38,less than a hundred,30,less than a hundred,30,less than a hundred,70,average
+328,328,270,Lotad,3,Water,220,40,less than a hundred,30,less than a hundred,30,less than a hundred,70,average
+646,646,548,Petilil,5,Grass,280,45,less than a hundred,35,less than a hundred,30,less than a hundred,70,average
+331,331,273,Seedot,3,Grass,220,40,less than a hundred,40,less than a hundred,30,less than a hundred,70,average
+682,682,578,Duosion,5,Psychic,370,65,less than a hundred,40,less than a hundred,30,less than a hundred,70,average
+493,493,410,Shieldon,4,Rock,350,30,less than a hundred,42,less than a hundred,30,less than a hundred,70,average
+358,358,299,Nosepass,3,Rock,375,30,less than a hundred,45,less than a hundred,30,less than a hundred,70,average
+888,888,756,Shiinotic,7,Grass,405,60,less than a hundred,45,less than a hundred,30,less than a hundred,70,average
+56,56,43,Oddish,1,Grass,320,45,less than a hundred,50,less than a hundred,30,less than a hundred,70,average
+667,667,563,Cofagrigus,5,Ghost,483,58,less than a hundred,50,less than a hundred,30,less than a hundred,70,average
+269,269,219,Magcargo,2,Fire,430,60,less than a hundred,50,less than a hundred,30,less than a hundred,70,average
+494,494,411,Bastiodon,4,Rock,495,60,less than a hundred,52,less than a hundred,30,less than a hundred,70,average
+703,703,599,Klink,5,Steel,300,40,less than a hundred,55,less than a hundred,30,less than a hundred,70,average
+709,709,605,Elgyem,5,Psychic,335,55,less than a hundred,55,less than a hundred,30,less than a hundred,70,average
+141,141,108,Lickitung,1,Normal,385,90,less than a hundred,55,less than a hundred,30,less than a hundred,70,average
+212,212,167,Spinarak,2,Bug,250,40,less than a hundred,60,less than a hundred,30,less than a hundred,70,average
+805,805,690,Skrelp,6,Poison,320,50,less than a hundred,60,less than a hundred,30,less than a hundred,70,average
+346,346,287,Slakoth,3,Normal,280,60,less than a hundred,60,less than a hundred,30,less than a hundred,70,average
+246,246,199,Galarian Slowking,8,Poison,490,95,less than a hundred,65,less than a hundred,30,less than a hundred,70,average
+683,683,579,Reuniclus,5,Psychic,490,110,greater than a hundred,65,less than a hundred,30,less than a hundred,70,average
+238,238,192,Sunflora,2,Grass,425,75,less than a hundred,75,less than a hundred,30,less than a hundred,70,average
+105,105,80,Slowbro,1,Water,490,95,less than a hundred,75,less than a hundred,30,less than a hundred,70,average
+245,245,199,Slowking,2,Water,490,95,less than a hundred,75,less than a hundred,30,less than a hundred,70,average
+106,106,80,Mega Slowbro,1,Water,590,95,less than a hundred,75,less than a hundred,30,less than a hundred,70,average
+257,257,209,Snubbull,2,Fairy,300,60,less than a hundred,80,less than a hundred,30,less than a hundred,70,average
+255,255,208,Steelix,2,Steel,510,75,less than a hundred,85,less than a hundred,30,less than a hundred,70,average
+695,695,591,Amoonguss,5,Grass,464,114,greater than a hundred,85,less than a hundred,30,less than a hundred,70,average
+60,60,47,Parasect,1,Bug,405,60,less than a hundred,95,less than a hundred,30,less than a hundred,70,average
+231,231,185,Sudowoodo,2,Rock,410,70,less than a hundred,100,greater than a hundred,30,less than a hundred,70,average
+107,107,80,Galarian Slowbro,8,Poison,490,95,less than a hundred,100,greater than a hundred,30,less than a hundred,70,average
+183,183,143,Snorlax,1,Normal,540,160,greater than a hundred,110,greater than a hundred,30,less than a hundred,70,average
+256,256,208,Mega Steelix,2,Steel,610,75,less than a hundred,125,greater than a hundred,30,less than a hundred,70,average
+549,549,460,Mega Abomasnow,4,Grass,594,90,less than a hundred,132,greater than a hundred,30,less than a hundred,70,average
+878,878,746,Wishiwashi School Form,7,Water,620,45,less than a hundred,140,greater than a hundred,30,less than a hundred,70,average
+482,482,399,Bidoof,4,Normal,250,59,less than a hundred,45,less than a hundred,31,less than a hundred,70,average
+470,470,387,Turtwig,4,Grass,318,55,less than a hundred,68,less than a hundred,31,less than a hundred,70,average
+893,893,761,Bounsweet,7,Grass,210,42,less than a hundred,30,less than a hundred,32,less than a hundred,70,average
+439,439,366,Clamperl,3,Water,345,35,less than a hundred,64,less than a hundred,32,less than a hundred,70,average
+722,722,618,Stunfisk,5,Ground,471,109,greater than a hundred,66,less than a hundred,32,less than a hundred,70,average
+537,537,449,Hippopotas,4,Ground,330,68,less than a hundred,72,less than a hundred,32,less than a hundred,70,average
+669,669,565,Carracosta,5,Water,495,74,less than a hundred,108,greater than a hundred,32,less than a hundred,70,average
+249,249,202,Wobbuffet,2,Psychic,405,190,greater than a hundred,33,less than a hundred,33,less than a hundred,70,average
+523,523,437,Bronzong,4,Steel,500,67,less than a hundred,89,less than a hundred,33,less than a hundred,70,average
+507,507,422,Shellos,4,Water,325,76,less than a hundred,48,less than a hundred,34,less than a hundred,70,average
+17,17,14,Kakuna,1,Bug,205,45,less than a hundred,25,less than a hundred,35,less than a hundred,70,average
+288,288,236,Tyrogue,2,Fighting,210,35,less than a hundred,35,less than a hundred,35,less than a hundred,70,average
+777,777,664,Scatterbug,6,Bug,200,38,less than a hundred,35,less than a hundred,35,less than a hundred,70,average
+505,505,420,Cherubi,4,Grass,275,45,less than a hundred,35,less than a hundred,35,less than a hundred,70,average
+177,177,138,Omanyte,1,Rock,355,35,less than a hundred,40,less than a hundred,35,less than a hundred,70,average
+224,224,179,Mareep,2,Electric,280,55,less than a hundred,40,less than a hundred,35,less than a hundred,70,average
+344,344,285,Shroomish,3,Grass,295,60,less than a hundred,40,less than a hundred,35,less than a hundred,70,average
+136,136,104,Cubone,1,Ground,320,50,less than a hundred,50,less than a hundred,35,less than a hundred,70,average
+317,317,261,Poochyena,3,Dark,220,35,less than a hundred,55,less than a hundred,35,less than a hundred,70,average
+885,885,753,Fomantis,7,Grass,250,40,less than a hundred,55,less than a hundred,35,less than a hundred,70,average
+272,272,222,Corsola,2,Water,410,65,less than a hundred,55,less than a hundred,35,less than a hundred,70,average
+387,387,322,Numel,3,Fire,305,60,less than a hundred,60,less than a hundred,35,less than a hundred,70,average
+880,880,748,Toxapex,7,Poison,495,50,less than a hundred,63,less than a hundred,35,less than a hundred,70,average
+142,142,109,Koffing,1,Poison,340,40,less than a hundred,65,less than a hundred,35,less than a hundred,70,average
+727,727,622,Golett,5,Ground,303,59,less than a hundred,74,less than a hundred,35,less than a hundred,70,average
+902,902,770,Palossand,7,Ghost,480,85,less than a hundred,75,less than a hundred,35,less than a hundred,70,average
+408,408,341,Corphish,3,Water,308,43,less than a hundred,80,less than a hundred,35,less than a hundred,70,average
+85,85,66,Machop,1,Fighting,305,70,less than a hundred,80,less than a hundred,35,less than a hundred,70,average
+630,630,532,Timburr,5,Fighting,305,75,less than a hundred,80,less than a hundred,35,less than a hundred,70,average
+241,241,195,Quagsire,2,Water,430,95,less than a hundred,85,less than a hundred,35,less than a hundred,70,average
+528,528,442,Spiritomb,4,Ghost,485,50,less than a hundred,92,less than a hundred,35,less than a hundred,70,average
+95,95,75,Graveler,1,Rock,390,55,less than a hundred,95,less than a hundred,35,less than a hundred,70,average
+96,96,75,Alolan Graveler,1,Rock,390,55,less than a hundred,95,less than a hundred,35,less than a hundred,70,average
+794,794,680,Doublade,6,Steel,448,59,less than a hundred,110,greater than a hundred,35,less than a hundred,70,average
+882,882,750,Mudsdale,7,Ground,500,100,greater than a hundred,125,greater than a hundred,35,less than a hundred,70,average
+495,495,412,Burmy,4,Bug,224,40,less than a hundred,29,less than a hundred,36,less than a hundred,70,average
+496,496,413,Wormadam Plant Cloak,4,Bug,424,60,less than a hundred,59,less than a hundred,36,less than a hundred,70,average
+913,913,780,Drampa,7,Normal,485,78,less than a hundred,60,less than a hundred,36,less than a hundred,70,average
+498,498,413,Wormadam Trash Cloak,4,Bug,424,60,less than a hundred,69,less than a hundred,36,less than a hundred,70,average
+909,909,776,Turtonator,7,Fire,485,60,less than a hundred,78,less than a hundred,36,less than a hundred,70,average
+497,497,413,Wormadam Sandy Cloak,4,Bug,424,60,less than a hundred,79,less than a hundred,36,less than a hundred,70,average
+862,862,737,Charjabug,7,Bug,400,57,less than a hundred,82,less than a hundred,36,less than a hundred,70,average
+471,471,388,Grotle,4,Grass,405,75,less than a hundred,89,less than a hundred,36,less than a hundred,70,average
+762,762,650,Chespin,6,Grass,313,56,less than a hundred,61,less than a hundred,38,less than a hundred,70,average
+823,823,708,Phantump,6,Ghost,309,43,less than a hundred,70,less than a hundred,38,less than a hundred,70,average
+508,508,423,Gastrodon,4,Water,475,111,greater than a hundred,83,less than a hundred,39,less than a hundred,70,average
+877,877,746,Wishiwashi Solo Form,7,Water,175,45,less than a hundred,20,less than a hundred,40,less than a hundred,70,average
+229,229,183,Marill,2,Water,250,70,less than a hundred,20,less than a hundred,40,less than a hundred,70,average
+221,221,176,Togetic,2,Fairy,405,55,less than a hundred,40,less than a hundred,40,less than a hundred,70,average
+696,696,592,Frillish,5,Water,335,55,less than a hundred,40,less than a hundred,40,less than a hundred,70,average
+133,133,102,Exeggcute,1,Grass,325,60,less than a hundred,40,less than a hundred,40,less than a hundred,70,average
+380,380,316,Gulpin,3,Poison,302,70,less than a hundred,43,less than a hundred,40,less than a hundred,70,average
+349,349,290,Nincada,3,Bug,266,31,less than a hundred,45,less than a hundred,40,less than a hundred,70,average
+476,476,393,Piplup,4,Water,314,53,less than a hundred,51,less than a hundred,40,less than a hundred,70,average
+853,853,728,Popplio,7,Water,320,50,less than a hundred,54,less than a hundred,40,less than a hundred,70,average
+566,566,476,Probopass,4,Rock,525,60,less than a hundred,55,less than a hundred,40,less than a hundred,70,average
+176,176,137,Porygon,1,Normal,395,65,less than a hundred,60,less than a hundred,40,less than a hundred,70,average
+283,283,231,Phanpy,2,Ground,330,90,less than a hundred,60,less than a hundred,40,less than a hundred,70,average
+547,547,459,Snover,4,Grass,334,60,less than a hundred,62,less than a hundred,40,less than a hundred,70,average
+120,120,90,Shellder,1,Water,305,30,less than a hundred,65,less than a hundred,40,less than a hundred,70,average
+57,57,44,Gloom,1,Grass,395,60,less than a hundred,65,less than a hundred,40,less than a hundred,70,average
+313,313,258,Mudkip,3,Water,310,50,less than a hundred,70,less than a hundred,40,less than a hundred,70,average
+717,717,613,Cubchoo,5,Ice,305,55,less than a hundred,70,less than a hundred,40,less than a hundred,70,average
+37,37,27,Alolan Sandshrew,1,Ice,300,50,less than a hundred,75,less than a hundred,40,less than a hundred,70,average
+88,88,69,Bellsprout,1,Grass,300,50,less than a hundred,75,less than a hundred,40,less than a hundred,70,average
+36,36,27,Sandshrew,1,Ground,300,50,less than a hundred,75,less than a hundred,40,less than a hundred,70,average
+710,710,606,Beheeyem,5,Psychic,485,75,less than a hundred,75,less than a hundred,40,less than a hundred,70,average
+266,266,216,Teddiursa,2,Normal,330,60,less than a hundred,80,less than a hundred,40,less than a hundred,70,average
+501,501,416,Vespiquen,4,Bug,474,70,less than a hundred,80,less than a hundred,40,less than a hundred,70,average
+707,707,603,Eelektrik,5,Electric,405,65,less than a hundred,85,less than a hundred,40,less than a hundred,70,average
+351,351,292,Shedinja,3,Bug,236,1,less than a hundred,90,less than a hundred,40,less than a hundred,70,average
+422,422,352,Kecleon,3,Normal,440,60,less than a hundred,90,less than a hundred,40,less than a hundred,70,average
+213,213,168,Ariados,2,Bug,400,70,less than a hundred,90,less than a hundred,40,less than a hundred,70,average
+252,252,205,Forretress,2,Bug,465,75,less than a hundred,90,less than a hundred,40,less than a hundred,70,average
+388,388,323,Camerupt,3,Fire,460,70,less than a hundred,100,greater than a hundred,40,less than a hundred,70,average
+631,631,533,Gurdurr,5,Fighting,405,85,less than a hundred,105,greater than a hundred,40,less than a hundred,70,average
+900,900,768,Golisopod,7,Bug,530,75,less than a hundred,125,greater than a hundred,40,less than a hundred,70,average
+146,146,112,Rhydon,1,Ground,485,105,greater than a hundred,130,greater than a hundred,40,less than a hundred,70,average
+914,914,781,Dhelmise,7,Ghost,517,70,less than a hundred,131,greater than a hundred,40,less than a hundred,70,average
+553,553,464,Rhyperior,4,Ground,535,115,greater than a hundred,140,greater than a hundred,40,less than a hundred,70,average
+40,40,29,Nidoran‚ôÄ,1,Poison,275,55,less than a hundred,47,less than a hundred,41,less than a hundred,70,average
+828,828,710,Pumpkaboo Super Size,6,Ghost,335,59,less than a hundred,66,less than a hundred,41,less than a hundred,70,average
+782,782,669,Flab√©b√©,6,Fairy,303,44,less than a hundred,38,less than a hundred,42,less than a hundred,70,average
+127,127,96,Drowzee,1,Psychic,328,60,less than a hundred,48,less than a hundred,42,less than a hundred,70,average
+638,638,540,Sewaddle,5,Bug,310,45,less than a hundred,53,less than a hundred,42,less than a hundred,70,average
+601,601,504,Patrat,5,Normal,255,45,less than a hundred,55,less than a hundred,42,less than a hundred,70,average
+847,847,722,Rowlet,7,Grass,320,68,less than a hundred,55,less than a hundred,42,less than a hundred,70,average
+639,639,541,Swadloon,5,Bug,380,55,less than a hundred,63,less than a hundred,42,less than a hundred,70,average
+529,529,443,Gible,4,Dragon,300,58,less than a hundred,70,less than a hundred,42,less than a hundred,70,average
+884,884,752,Araquanid,7,Water,454,68,less than a hundred,70,less than a hundred,42,less than a hundred,70,average
+9,9,7,Squirtle,1,Water,314,44,less than a hundred,48,less than a hundred,43,less than a hundred,70,average
+616,616,519,Pidove,5,Normal,264,50,less than a hundred,55,less than a hundred,43,less than a hundred,70,average
+203,203,158,Totodile,2,Water,314,50,less than a hundred,65,less than a hundred,43,less than a hundred,70,average
+863,863,738,Vikavolt,7,Bug,500,77,less than a hundred,70,less than a hundred,43,less than a hundred,70,average
+413,413,346,Cradily,3,Rock,495,86,less than a hundred,81,less than a hundred,43,less than a hundred,70,average
+787,787,674,Pancham,6,Fighting,348,67,less than a hundred,82,less than a hundred,43,less than a hundred,70,average
+865,865,740,Crabominable,7,Fighting,478,97,less than a hundred,132,greater than a hundred,43,less than a hundred,70,average
+686,686,582,Vanillite,5,Ice,305,36,less than a hundred,50,less than a hundred,44,less than a hundred,70,average
+807,807,692,Clauncher,6,Water,330,50,less than a hundred,53,less than a hundred,44,less than a hundred,70,average
+806,806,691,Dragalge,6,Poison,494,65,less than a hundred,75,less than a hundred,44,less than a hundred,70,average
+678,678,574,Gothita,5,Psychic,290,45,less than a hundred,30,less than a hundred,45,less than a hundred,70,average
+13,13,10,Caterpie,1,Bug,195,45,less than a hundred,30,less than a hundred,45,less than a hundred,70,average
+519,519,433,Chingling,4,Psychic,285,45,less than a hundred,30,less than a hundred,45,less than a hundred,70,average
+108,108,81,Magnemite,1,Electric,325,25,less than a hundred,35,less than a hundred,45,less than a hundred,70,average
+114,114,86,Seel,1,Water,325,65,less than a hundred,45,less than a hundred,45,less than a hundred,70,average
+0,0,1,Bulbasaur,1,Grass,318,45,less than a hundred,49,less than a hundred,45,less than a hundred,70,average
+197,197,152,Chikorita,2,Grass,318,45,less than a hundred,49,less than a hundred,45,less than a hundred,70,average
+879,879,747,Mareanie,7,Poison,305,50,less than a hundred,53,less than a hundred,45,less than a hundred,70,average
+801,801,686,Inkay,6,Dark,288,53,less than a hundred,54,less than a hundred,45,less than a hundred,70,average
+915,915,782,Jangmo-o,7,Dragon,300,45,less than a hundred,55,less than a hundred,45,less than a hundred,70,average
+598,598,501,Oshawott,5,Water,308,55,less than a hundred,55,less than a hundred,45,less than a hundred,70,average
+61,61,48,Venonat,1,Bug,305,60,less than a hundred,55,less than a hundred,45,less than a hundred,70,average
+225,225,180,Flaaffy,2,Electric,365,70,less than a hundred,55,less than a hundred,45,less than a hundred,70,average
+309,309,255,Torchic,3,Fire,310,45,less than a hundred,60,less than a hundred,45,less than a hundred,70,average
+437,437,364,Sealeo,3,Ice,410,90,less than a hundred,60,less than a hundred,45,less than a hundred,70,average
+595,595,498,Tepig,5,Fire,308,65,less than a hundred,63,less than a hundred,45,less than a hundred,70,average
+486,486,403,Shinx,4,Electric,263,45,less than a hundred,65,less than a hundred,45,less than a hundred,70,average
+859,859,734,Yungoos,7,Normal,253,48,less than a hundred,70,less than a hundred,45,less than a hundred,70,average
+253,253,206,Dunsparce,2,Normal,415,100,greater than a hundred,70,less than a hundred,45,less than a hundred,70,average
+53,53,40,Wigglytuff,1,Normal,435,140,greater than a hundred,70,less than a hundred,45,less than a hundred,70,average
+138,138,105,Alolan Marowak,1,Fire,425,60,less than a hundred,80,less than a hundred,45,less than a hundred,70,average
+137,137,105,Marowak,1,Ground,425,60,less than a hundred,80,less than a hundred,45,less than a hundred,70,average
+227,227,181,Mega Ampharos,2,Electric,610,90,less than a hundred,95,less than a hundred,45,less than a hundred,70,average
+881,881,749,Mudbray,7,Ground,385,70,less than a hundred,100,greater than a hundred,45,less than a hundred,70,average
+86,86,67,Machoke,1,Fighting,405,80,less than a hundred,100,greater than a hundred,45,less than a hundred,70,average
+636,636,538,Throh,5,Fighting,465,120,greater than a hundred,100,greater than a hundred,45,less than a hundred,70,average
+661,661,558,Crustle,5,Bug,485,70,less than a hundred,105,greater than a hundred,45,less than a hundred,70,average
+886,886,754,Lurantis,7,Grass,480,70,less than a hundred,105,greater than a hundred,45,less than a hundred,70,average
+275,275,224,Octillery,2,Water,480,75,less than a hundred,105,greater than a hundred,45,less than a hundred,70,average
+135,135,103,Alolan Exeggutor,1,Grass,530,95,less than a hundred,105,greater than a hundred,45,less than a hundred,70,average
+860,860,735,Gumshoos,7,Normal,418,88,less than a hundred,110,greater than a hundred,45,less than a hundred,70,average
+97,97,76,Golem,1,Rock,495,80,less than a hundred,120,greater than a hundred,45,less than a hundred,70,average
+98,98,76,Alolan Golem,1,Rock,495,80,less than a hundred,120,greater than a hundred,45,less than a hundred,70,average
+258,258,210,Granbull,2,Fairy,450,90,less than a hundred,120,greater than a hundred,45,less than a hundred,70,average
+415,415,348,Armaldo,3,Rock,495,75,less than a hundred,125,greater than a hundred,45,less than a hundred,70,average
+632,632,534,Conkeldurr,5,Fighting,505,105,greater than a hundred,140,greater than a hundred,45,less than a hundred,70,average
+813,813,698,Amaura,6,Rock,362,77,less than a hundred,59,less than a hundred,46,less than a hundred,70,average
+861,861,736,Grubbin,7,Bug,300,47,less than a hundred,62,less than a hundred,46,less than a hundred,70,average
+827,827,710,Pumpkaboo Large Size,6,Ghost,335,54,less than a hundred,66,less than a hundred,46,less than a hundred,70,average
+543,543,455,Carnivine,4,Grass,454,74,less than a hundred,100,greater than a hundred,46,less than a hundred,70,average
+642,642,544,Whirlipede,5,Bug,360,40,less than a hundred,55,less than a hundred,47,less than a hundred,70,average
+538,538,450,Hippowdon,4,Ground,525,108,greater than a hundred,112,greater than a hundred,47,less than a hundred,70,average
+170,170,132,Ditto,1,Normal,288,48,less than a hundred,48,less than a hundred,48,less than a hundred,70,average
+353,353,294,Loudred,3,Normal,360,84,less than a hundred,71,less than a hundred,48,less than a hundred,70,average
+248,248,201,Unown,2,Psychic,336,48,less than a hundred,72,less than a hundred,48,less than a hundred,70,average
+811,811,696,Tyrunt,6,Rock,362,58,less than a hundred,89,less than a hundred,48,less than a hundred,70,average
+726,726,621,Druddigon,5,Dragon,485,77,less than a hundred,120,greater than a hundred,48,less than a hundred,70,average
+799,799,684,Swirlix,6,Fairy,341,62,less than a hundred,48,less than a hundred,49,less than a hundred,70,average
+546,546,458,Mantyke,4,Water,345,45,less than a hundred,20,less than a hundred,50,less than a hundred,70,average
+208,208,163,Hoothoot,2,Normal,262,60,less than a hundred,30,less than a hundred,50,less than a hundred,70,average
+233,233,187,Hoppip,2,Grass,250,35,less than a hundred,35,less than a hundred,50,less than a hundred,70,average
+16,16,13,Weedle,1,Bug,195,40,less than a hundred,35,less than a hundred,50,less than a hundred,70,average
+399,399,333,Swablu,3,Normal,310,45,less than a hundred,40,less than a hundred,50,less than a hundred,70,average
+359,359,300,Skitty,3,Normal,260,50,less than a hundred,45,less than a hundred,50,less than a hundred,70,average
+270,270,220,Swinub,2,Ice,250,50,less than a hundred,50,less than a hundred,50,less than a hundred,70,average
+818,818,703,Carbink,6,Rock,500,50,less than a hundred,50,less than a hundred,50,less than a hundred,70,average
+433,433,361,Snorunt,3,Ice,300,50,less than a hundred,50,less than a hundred,50,less than a hundred,70,average
+329,329,271,Lombre,3,Water,340,60,less than a hundred,50,less than a hundred,50,less than a hundred,70,average
+230,230,184,Azumarill,2,Water,420,100,greater than a hundred,50,less than a hundred,50,less than a hundred,70,average
+803,803,688,Binacle,6,Rock,306,42,less than a hundred,52,less than a hundred,50,less than a hundred,70,average
+43,43,32,Nidoran‚ôÇ,1,Poison,273,46,less than a hundred,57,less than a hundred,50,less than a hundred,70,average
+628,628,531,Audino,5,Normal,445,103,greater than a hundred,60,less than a hundred,50,less than a hundred,70,average
+629,629,531,Mega Audino,5,Normal,545,103,greater than a hundred,60,less than a hundred,50,less than a hundred,70,average
+477,477,394,Prinplup,4,Water,405,64,less than a hundred,66,less than a hundred,50,less than a hundred,70,average
+854,854,729,Brionne,7,Water,420,60,less than a hundred,69,less than a hundred,50,less than a hundred,70,average
+891,891,759,Stufful,7,Normal,340,70,less than a hundred,75,less than a hundred,50,less than a hundred,70,average
+704,704,600,Klang,5,Steel,440,60,less than a hundred,80,less than a hundred,50,less than a hundred,70,average
+58,58,45,Vileplume,1,Grass,490,75,less than a hundred,80,less than a hundred,50,less than a hundred,70,average
+228,228,182,Bellossom,2,Grass,490,75,less than a hundred,80,less than a hundred,50,less than a hundred,70,average
+363,363,303,Mawile,3,Steel,380,50,less than a hundred,85,less than a hundred,50,less than a hundred,70,average
+314,314,259,Marshtomp,3,Water,405,70,less than a hundred,85,less than a hundred,50,less than a hundred,70,average
+552,552,463,Lickilicky,4,Normal,515,110,greater than a hundred,85,less than a hundred,50,less than a hundred,70,average
+653,653,554,Darumaka,5,Fire,315,70,less than a hundred,90,less than a hundred,50,less than a hundred,70,average
+842,842,719,Diancie,6,Rock,600,50,less than a hundred,100,greater than a hundred,50,less than a hundred,70,average
+271,271,221,Piloswine,2,Ice,450,100,greater than a hundred,100,greater than a hundred,50,less than a hundred,70,average
+554,554,465,Tangrowth,4,Grass,535,100,greater than a hundred,100,greater than a hundred,50,less than a hundred,70,average
+129,129,98,Krabby,1,Water,325,30,less than a hundred,105,greater than a hundred,50,less than a hundred,70,average
+364,364,303,Mega Mawile,3,Steel,480,50,less than a hundred,105,greater than a hundred,50,less than a hundred,70,average
+119,119,89,Alolan Muk,1,Poison,500,105,greater than a hundred,105,greater than a hundred,50,less than a hundred,70,average
+118,118,89,Muk,1,Poison,500,105,greater than a hundred,105,greater than a hundred,50,less than a hundred,70,average
+708,708,604,Eelektross,5,Electric,515,85,less than a hundred,115,greater than a hundred,50,less than a hundred,70,average
+284,284,232,Donphan,2,Ground,500,90,less than a hundred,120,greater than a hundred,50,less than a hundred,70,average
+356,356,297,Hariyama,3,Fighting,474,144,greater than a hundred,120,greater than a hundred,50,less than a hundred,70,average
+718,718,614,Beartic,5,Ice,505,95,less than a hundred,130,greater than a hundred,50,less than a hundred,70,average
+825,825,710,Pumpkaboo Average Size,6,Ghost,335,49,less than a hundred,66,less than a hundred,51,less than a hundred,70,average
+428,428,357,Tropius,3,Grass,460,99,less than a hundred,68,less than a hundred,51,less than a hundred,70,average
+783,783,670,Floette,6,Fairy,371,54,less than a hundred,45,less than a hundred,52,less than a hundred,70,average
+785,785,672,Skiddo,6,Grass,350,66,less than a hundred,65,less than a hundred,52,less than a hundred,70,average
+848,848,723,Dartrix,7,Grass,420,78,less than a hundred,75,less than a hundred,52,less than a hundred,70,average
+441,441,368,Gorebyss,3,Water,485,55,less than a hundred,84,less than a hundred,52,less than a hundred,70,average
+440,440,367,Huntail,3,Water,485,55,less than a hundred,104,greater than a hundred,52,less than a hundred,70,average
+832,832,711,Gourgeist Super Size,6,Ghost,494,85,less than a hundred,100,greater than a hundred,54,less than a hundred,70,average
+210,210,165,Ledyba,2,Bug,265,40,less than a hundred,20,less than a hundred,55,less than a hundred,70,average
+489,489,406,Budew,4,Grass,280,40,less than a hundred,30,less than a hundred,55,less than a hundred,70,average
+835,835,714,Noibat,6,Flying,245,40,less than a hundred,30,less than a hundred,55,less than a hundred,70,average
+656,656,555,Darmanitan Zen Mode,5,Fire,540,105,greater than a hundred,30,less than a hundred,55,less than a hundred,70,average
+410,410,343,Baltoy,3,Ground,300,40,less than a hundred,40,less than a hundred,55,less than a hundred,70,average
+712,712,608,Lampent,5,Ghost,370,60,less than a hundred,40,less than a hundred,55,less than a hundred,70,average
+684,684,580,Ducklett,5,Water,305,62,less than a hundred,44,less than a hundred,55,less than a hundred,70,average
+54,54,41,Zubat,1,Poison,245,40,less than a hundred,45,less than a hundred,55,less than a hundred,70,average
+679,679,575,Gothorita,5,Psychic,390,60,less than a hundred,45,less than a hundred,55,less than a hundred,70,average
+72,72,54,Psyduck,1,Water,320,50,less than a hundred,52,less than a hundred,55,less than a hundred,70,average
+171,171,133,Eevee,1,Normal,325,55,less than a hundred,55,less than a hundred,55,less than a hundred,70,average
+30,30,23,Ekans,1,Poison,288,35,less than a hundred,60,less than a hundred,55,less than a hundred,70,average
+603,603,506,Lillipup,5,Normal,275,45,less than a hundred,60,less than a hundred,55,less than a hundred,70,average
+178,178,139,Omastar,1,Rock,495,70,less than a hundred,60,less than a hundred,55,less than a hundred,70,average
+660,660,557,Dwebble,5,Bug,325,50,less than a hundred,65,less than a hundred,55,less than a hundred,70,average
+381,381,317,Swalot,3,Poison,467,100,greater than a hundred,73,less than a hundred,55,less than a hundred,70,average
+226,226,181,Ampharos,2,Electric,510,90,less than a hundred,75,less than a hundred,55,less than a hundred,70,average
+179,179,140,Kabuto,1,Rock,355,30,less than a hundred,80,less than a hundred,55,less than a hundred,70,average
+310,310,256,Combusken,3,Fire,405,60,less than a hundred,85,less than a hundred,55,less than a hundred,70,average
+89,89,70,Weepinbell,1,Grass,390,65,less than a hundred,90,less than a hundred,55,less than a hundred,70,average
+442,442,369,Relicanth,3,Water,485,100,greater than a hundred,90,less than a hundred,55,less than a hundred,70,average
+596,596,499,Pignite,5,Fire,418,90,less than a hundred,93,less than a hundred,55,less than a hundred,70,average
+134,134,103,Exeggutor,1,Grass,530,95,less than a hundred,95,less than a hundred,55,less than a hundred,70,average
+731,731,626,Bouffalant,5,Normal,490,95,less than a hundred,110,greater than a hundred,55,less than a hundred,70,average
+409,409,342,Crawdaunt,3,Water,468,63,less than a hundred,120,greater than a hundred,55,less than a hundred,70,average
+728,728,623,Golurk,5,Ground,483,89,less than a hundred,124,greater than a hundred,55,less than a hundred,70,average
+87,87,68,Machamp,1,Fighting,505,90,less than a hundred,130,greater than a hundred,55,less than a hundred,70,average
+267,267,217,Ursaring,2,Normal,500,90,less than a hundred,130,greater than a hundred,55,less than a hundred,70,average
+20,20,16,Pidgey,1,Normal,251,40,less than a hundred,45,less than a hundred,56,less than a hundred,70,average
+41,41,30,Nidorina,1,Poison,365,70,less than a hundred,62,less than a hundred,56,less than a hundred,70,average
+826,826,710,Pumpkaboo Small Size,6,Ghost,335,44,less than a hundred,66,less than a hundred,56,less than a hundred,70,average
+472,472,389,Torterra,4,Grass,525,95,less than a hundred,109,greater than a hundred,56,less than a hundred,70,average
+824,824,709,Trevenant,6,Ghost,474,85,less than a hundred,110,greater than a hundred,56,less than a hundred,70,average
+772,772,659,Bunnelby,6,Normal,237,38,less than a hundred,36,less than a hundred,57,less than a hundred,70,average
+641,641,543,Venipede,5,Bug,260,30,less than a hundred,45,less than a hundred,57,less than a hundred,70,average
+763,763,651,Quilladin,6,Grass,405,61,less than a hundred,78,less than a hundred,57,less than a hundred,70,average
+10,10,8,Wartortle,1,Water,405,59,less than a hundred,63,less than a hundred,58,less than a hundred,70,average
+814,814,699,Aurorus,6,Rock,521,123,greater than a hundred,77,less than a hundred,58,less than a hundred,70,average
+204,204,159,Croconaw,2,Water,405,65,less than a hundred,80,less than a hundred,58,less than a hundred,70,average
+663,663,560,Scrafty,5,Dark,488,65,less than a hundred,90,less than a hundred,58,less than a hundred,70,average
+788,788,675,Pangoro,6,Fighting,495,95,less than a hundred,124,greater than a hundred,58,less than a hundred,70,average
+491,491,408,Cranidos,4,Rock,350,67,less than a hundred,125,greater than a hundred,58,less than a hundred,70,average
+492,492,409,Rampardos,4,Rock,495,97,less than a hundred,165,greater than a hundred,58,less than a hundred,70,average
+687,687,583,Vanillish,5,Ice,395,51,less than a hundred,65,less than a hundred,59,less than a hundred,70,average
+808,808,693,Clawitzer,6,Water,500,71,less than a hundred,73,less than a hundred,59,less than a hundred,70,average
+525,525,439,Mime Jr.,4,Psychic,310,20,less than a hundred,25,less than a hundred,60,less than a hundred,70,average
+391,391,325,Spoink,3,Psychic,330,60,less than a hundred,25,less than a hundred,60,less than a hundred,70,average
+319,319,263,Zigzagoon,3,Normal,240,38,less than a hundred,30,less than a hundred,60,less than a hundred,70,average
+217,217,172,Pichu,2,Electric,205,20,less than a hundred,40,less than a hundred,60,less than a hundred,70,average
+369,369,307,Meditite,3,Fighting,280,30,less than a hundred,40,less than a hundred,60,less than a hundred,70,average
+151,151,116,Horsea,1,Water,295,30,less than a hundred,40,less than a hundred,60,less than a hundred,70,average
+765,765,653,Fennekin,6,Fire,307,40,less than a hundred,45,less than a hundred,60,less than a hundred,70,average
+406,406,339,Barboach,3,Water,288,50,less than a hundred,48,less than a hundred,60,less than a hundred,70,average
+796,796,681,Aegislash Shield Forme,6,Steel,520,60,less than a hundred,50,less than a hundred,60,less than a hundred,70,average
+706,706,602,Tynamo,5,Electric,275,35,less than a hundred,55,less than a hundred,60,less than a hundred,70,average
+479,479,396,Starly,4,Normal,245,40,less than a hundred,55,less than a hundred,60,less than a hundred,70,average
+148,148,114,Tangela,1,Grass,435,65,less than a hundred,55,less than a hundred,60,less than a hundred,70,average
+393,393,327,Spinda,3,Normal,360,60,less than a hundred,60,less than a hundred,60,less than a hundred,70,average
+906,906,774,Minior Meteor Form,7,Rock,440,60,less than a hundred,60,less than a hundred,60,less than a hundred,70,average
+897,897,765,Oranguru,7,Normal,490,90,less than a hundred,60,less than a hundred,60,less than a hundred,70,average
+697,697,593,Jellicent,5,Water,480,100,greater than a hundred,60,less than a hundred,60,less than a hundred,70,average
+1,1,2,Ivysaur,1,Grass,405,60,less than a hundred,62,less than a hundred,60,less than a hundred,70,average
+198,198,153,Bayleef,2,Grass,405,60,less than a hundred,62,less than a hundred,60,less than a hundred,70,average
+872,872,744,Rockruff,7,Rock,280,45,less than a hundred,65,less than a hundred,60,less than a hundred,70,average
+873,873,744,Own Tempo Rockruff,7,Rock,280,45,less than a hundred,65,less than a hundred,60,less than a hundred,70,average
+815,815,700,Sylveon,6,Fairy,525,95,less than a hundred,65,less than a hundred,60,less than a hundred,70,average
+534,534,447,Riolu,4,Fighting,285,40,less than a hundred,70,less than a hundred,60,less than a hundred,70,average
+76,76,58,Growlithe,1,Fire,350,55,less than a hundred,70,less than a hundred,60,less than a hundred,70,average
+332,332,274,Nuzleaf,3,Grass,340,70,less than a hundred,70,less than a hundred,60,less than a hundred,70,average
+551,551,462,Magnezone,4,Electric,535,70,less than a hundred,70,less than a hundred,60,less than a hundred,70,average
+385,385,320,Wailmer,3,Water,400,130,greater than a hundred,70,less than a hundred,60,less than a hundred,70,average
+855,855,730,Primarina,7,Water,530,80,less than a hundred,74,less than a hundred,60,less than a hundred,70,average
+692,692,588,Karrablast,5,Bug,315,50,less than a hundred,75,less than a hundred,60,less than a hundred,70,average
+599,599,502,Dewott,5,Water,413,75,less than a hundred,75,less than a hundred,60,less than a hundred,70,average
+407,407,340,Whiscash,3,Water,468,110,greater than a hundred,78,less than a hundred,60,less than a hundred,70,average
+604,604,507,Herdier,5,Normal,370,65,less than a hundred,80,less than a hundred,60,less than a hundred,70,average
+285,285,233,Porygon2,2,Normal,515,85,less than a hundred,80,less than a hundred,60,less than a hundred,70,average
+732,732,627,Rufflet,5,Normal,350,70,less than a hundred,83,less than a hundred,60,less than a hundred,70,average
+741,741,636,Larvesta,5,Bug,360,55,less than a hundred,85,less than a hundred,60,less than a hundred,70,average
+169,169,131,Lapras,1,Water,535,130,greater than a hundred,85,less than a hundred,60,less than a hundred,70,average
+659,659,556,Maractus,5,Grass,461,75,less than a hundred,86,less than a hundred,60,less than a hundred,70,average
+478,478,395,Empoleon,4,Water,530,84,less than a hundred,86,less than a hundred,60,less than a hundred,70,average
+110,110,83,Farfetch'd,1,Normal,377,52,less than a hundred,90,less than a hundred,60,less than a hundred,70,average
+143,143,110,Weezing,1,Poison,490,65,less than a hundred,90,less than a hundred,60,less than a hundred,70,average
+386,386,321,Wailord,3,Water,500,170,greater than a hundred,90,less than a hundred,60,less than a hundred,70,average
+548,548,460,Abomasnow,4,Grass,494,90,less than a hundred,92,less than a hundred,60,less than a hundred,70,average
+315,315,260,Swampert,3,Water,535,100,greater than a hundred,110,greater than a hundred,60,less than a hundred,70,average
+852,852,727,Incineroar,7,Fire,530,95,less than a hundred,115,greater than a hundred,60,less than a hundred,70,average
+858,858,733,Toucannon,7,Normal,485,80,less than a hundred,120,greater than a hundred,60,less than a hundred,70,average
+892,892,760,Bewear,7,Normal,500,120,greater than a hundred,125,greater than a hundred,60,less than a hundred,70,average
+795,795,681,Aegislash Blade Forme,6,Steel,520,60,less than a hundred,150,greater than a hundred,60,less than a hundred,70,average
+473,473,390,Chimchar,4,Fire,309,44,less than a hundred,58,less than a hundred,61,less than a hundred,70,average
+894,894,762,Steenee,7,Grass,290,52,less than a hundred,40,less than a hundred,62,less than a hundred,70,average
+774,774,661,Fletchling,6,Normal,278,45,less than a hundred,50,less than a hundred,62,less than a hundred,70,average
+592,592,495,Snivy,5,Grass,308,45,less than a hundred,45,less than a hundred,63,less than a hundred,70,average
+153,153,118,Goldeen,1,Water,320,45,less than a hundred,67,less than a hundred,63,less than a hundred,70,average
+864,864,739,Crabrawler,7,Fighting,338,47,less than a hundred,82,less than a hundred,63,less than a hundred,70,average
+633,633,535,Tympole,5,Water,294,50,less than a hundred,50,less than a hundred,64,less than a hundred,70,average
+608,608,511,Pansage,5,Grass,316,50,less than a hundred,53,less than a hundred,64,less than a hundred,70,average
+610,610,513,Pansear,5,Fire,316,50,less than a hundred,53,less than a hundred,64,less than a hundred,70,average
+612,612,515,Panpour,5,Water,316,50,less than a hundred,53,less than a hundred,64,less than a hundred,70,average
+764,764,652,Chesnaught,6,Grass,530,88,less than a hundred,107,greater than a hundred,64,less than a hundred,70,average
+342,342,283,Surskit,3,Bug,269,40,less than a hundred,30,less than a hundred,65,less than a hundred,70,average
+290,290,238,Smoochum,2,Ice,305,45,less than a hundred,30,less than a hundred,65,less than a hundred,70,average
+48,48,37,Vulpix,1,Fire,299,38,less than a hundred,41,less than a hundred,65,less than a hundred,70,average
+49,49,37,Alolan Vulpix,1,Ice,299,38,less than a hundred,41,less than a hundred,65,less than a hundred,70,average
+372,372,309,Electrike,3,Electric,295,40,less than a hundred,45,less than a hundred,65,less than a hundred,70,average
+699,699,595,Joltik,5,Bug,319,50,less than a hundred,47,less than a hundred,65,less than a hundred,70,average
+539,539,451,Skorupi,4,Poison,330,40,less than a hundred,50,less than a hundred,65,less than a hundred,70,average
+672,672,568,Trubbish,5,Poison,329,50,less than a hundred,50,less than a hundred,65,less than a hundred,70,average
+337,337,279,Pelipper,3,Water,440,60,less than a hundred,50,less than a hundred,65,less than a hundred,70,average
+327,327,269,Dustox,3,Bug,385,60,less than a hundred,50,less than a hundred,65,less than a hundred,70,average
+429,429,358,Chimecho,3,Psychic,455,75,less than a hundred,50,less than a hundred,65,less than a hundred,70,average
+4,4,4,Charmander,1,Fire,309,39,less than a hundred,52,less than a hundred,65,less than a hundred,70,average
+200,200,155,Cyndaquil,2,Fire,309,39,less than a hundred,52,less than a hundred,65,less than a hundred,70,average
+680,680,576,Gothitelle,5,Psychic,490,70,less than a hundred,55,less than a hundred,65,less than a hundred,70,average
+379,379,315,Roselia,3,Grass,400,50,less than a hundred,60,less than a hundred,65,less than a hundred,70,average
+274,274,223,Remoraid,2,Water,300,35,less than a hundred,65,less than a hundred,65,less than a hundred,70,average
+674,674,570,Zorua,5,Dark,330,40,less than a hundred,65,less than a hundred,65,less than a hundred,70,average
+173,173,134,Vaporeon,1,Water,525,130,greater than a hundred,65,less than a hundred,65,less than a hundred,70,average
+325,325,267,Beautifly,3,Bug,395,60,less than a hundred,70,less than a hundred,65,less than a hundred,70,average
+650,650,551,Sandile,5,Ground,292,50,less than a hundred,72,less than a hundred,65,less than a hundred,70,average
+44,44,33,Nidorino,1,Poison,365,61,less than a hundred,72,less than a hundred,65,less than a hundred,70,average
+856,856,731,Pikipek,7,Normal,265,35,less than a hundred,75,less than a hundred,65,less than a hundred,70,average
+916,916,783,Hakamo-o,7,Dragon,420,55,less than a hundred,75,less than a hundred,65,less than a hundred,70,average
+698,698,594,Alomomola,5,Water,470,165,greater than a hundred,75,less than a hundred,65,less than a hundred,70,average
+617,617,520,Tranquill,5,Normal,358,62,less than a hundred,77,less than a hundred,65,less than a hundred,70,average
+438,438,365,Walrein,3,Ice,530,110,greater than a hundred,80,less than a hundred,65,less than a hundred,70,average
+724,724,619,Mienfoo,5,Fighting,350,45,less than a hundred,85,less than a hundred,65,less than a hundred,70,average
+485,485,402,Kricketune,4,Bug,384,77,less than a hundred,85,less than a hundred,65,less than a hundred,70,average
+736,736,631,Heatmor,5,Fire,484,85,less than a hundred,97,less than a hundred,65,less than a hundred,70,average
+403,403,336,Seviper,3,Poison,458,73,less than a hundred,100,greater than a hundred,65,less than a hundred,70,average
+39,39,28,Alolan Sandslash,1,Ice,450,75,less than a hundred,100,greater than a hundred,65,less than a hundred,70,average
+38,38,28,Sandslash,1,Ground,450,75,less than a hundred,100,greater than a hundred,65,less than a hundred,70,average
+908,908,775,Komala,7,Normal,480,65,less than a hundred,115,greater than a hundred,65,less than a hundred,70,average
+597,597,500,Emboar,5,Fire,528,110,greater than a hundred,123,greater than a hundred,65,less than a hundred,70,average
+175,175,136,Flareon,1,Fire,525,65,less than a hundred,130,greater than a hundred,65,less than a hundred,70,average
+260,260,212,Scizor,2,Bug,500,70,less than a hundred,130,greater than a hundred,65,less than a hundred,70,average
+644,644,546,Cottonee,5,Grass,280,40,less than a hundred,27,less than a hundred,66,less than a hundred,70,average
+544,544,456,Finneon,4,Water,330,49,less than a hundred,49,less than a hundred,66,less than a hundred,70,average
+606,606,509,Purrloin,5,Dark,281,41,less than a hundred,50,less than a hundred,66,less than a hundred,70,average
+499,499,414,Mothim,4,Bug,424,70,less than a hundred,94,less than a hundred,66,less than a hundred,70,average
+215,215,170,Chinchou,2,Water,330,75,less than a hundred,38,less than a hundred,67,less than a hundred,70,average
+216,216,171,Lanturn,2,Water,460,125,greater than a hundred,58,less than a hundred,67,less than a hundred,70,average
+128,128,97,Hypno,1,Psychic,483,85,less than a hundred,73,less than a hundred,67,less than a hundred,70,average
+790,790,677,Espurr,6,Psychic,355,62,less than a hundred,48,less than a hundred,68,less than a hundred,70,average
+626,626,529,Drilbur,5,Ground,328,60,less than a hundred,85,less than a hundred,68,less than a hundred,70,average
+354,354,295,Exploud,3,Normal,490,104,greater than a hundred,91,less than a hundred,68,less than a hundred,70,average
+154,154,119,Seaking,1,Water,450,80,less than a hundred,92,less than a hundred,68,less than a hundred,70,average
+786,786,673,Gogoat,6,Grass,531,123,greater than a hundred,100,greater than a hundred,68,less than a hundred,70,average
+804,804,689,Barbaracle,6,Rock,500,72,less than a hundred,105,greater than a hundred,68,less than a hundred,70,average
+634,634,536,Palpitoad,5,Water,384,75,less than a hundred,65,less than a hundred,69,less than a hundred,70,average
+831,831,711,Gourgeist Large Size,6,Ghost,494,75,less than a hundred,95,less than a hundred,69,less than a hundred,70,average
+500,500,415,Combee,4,Bug,244,30,less than a hundred,30,less than a hundred,70,less than a hundred,70,average
+809,809,694,Helioptile,6,Electric,289,44,less than a hundred,38,less than a hundred,70,less than a hundred,70,average
+91,91,72,Tentacool,1,Water,335,40,less than a hundred,40,less than a hundred,70,less than a hundred,70,average
+277,277,226,Mantine,2,Water,485,85,less than a hundred,40,less than a hundred,70,less than a hundred,70,average
+126,126,95,Onix,1,Rock,385,35,less than a hundred,45,less than a hundred,70,less than a hundred,70,average
+305,305,252,Treecko,3,Grass,310,40,less than a hundred,45,less than a hundred,70,less than a hundred,70,average
+15,15,12,Butterfree,1,Bug,395,60,less than a hundred,45,less than a hundred,70,less than a hundred,70,average
+222,222,177,Natu,2,Psychic,320,40,less than a hundred,50,less than a hundred,70,less than a hundred,70,average
+510,510,425,Drifloon,4,Ghost,348,90,less than a hundred,50,less than a hundred,70,less than a hundred,70,average
+209,209,164,Noctowl,2,Normal,452,100,greater than a hundred,50,less than a hundred,70,less than a hundred,70,average
+404,404,337,Lunatone,3,Rock,460,90,less than a hundred,55,less than a hundred,70,less than a hundred,70,average
+28,28,21,Spearow,1,Normal,262,40,less than a hundred,60,less than a hundred,70,less than a hundred,70,average
+109,109,82,Magneton,1,Electric,465,50,less than a hundred,60,less than a hundred,70,less than a hundred,70,average
+850,850,725,Litten,7,Fire,320,45,less than a hundred,65,less than a hundred,70,less than a hundred,70,average
+395,395,329,Vibrava,3,Ground,340,50,less than a hundred,70,less than a hundred,70,less than a hundred,70,average
+418,418,351,Castform,3,Normal,420,70,less than a hundred,70,less than a hundred,70,less than a hundred,70,average
+419,419,351,Castform Sunny Form,3,Fire,420,70,less than a hundred,70,less than a hundred,70,less than a hundred,70,average
+420,420,351,Castform Rainy Form,3,Water,420,70,less than a hundred,70,less than a hundred,70,less than a hundred,70,average
+421,421,351,Castform Snowy Form,3,Ice,420,70,less than a hundred,70,less than a hundred,70,less than a hundred,70,average
+330,330,272,Ludicolo,3,Water,480,80,less than a hundred,70,less than a hundred,70,less than a hundred,70,average
+115,115,87,Dewgong,1,Water,475,90,less than a hundred,70,less than a hundred,70,less than a hundred,70,average
+232,232,186,Politoed,2,Water,500,90,less than a hundred,75,less than a hundred,70,less than a hundred,70,average
+74,74,56,Mankey,1,Fighting,305,40,less than a hundred,80,less than a hundred,70,less than a hundred,70,average
+278,278,227,Skarmory,2,Steel,465,65,less than a hundred,80,less than a hundred,70,less than a hundred,70,average
+318,318,262,Mightyena,3,Dark,420,70,less than a hundred,90,less than a hundred,70,less than a hundred,70,average
+121,121,91,Cloyster,1,Water,525,50,less than a hundred,95,less than a hundred,70,less than a hundred,70,average
+289,289,237,Hitmontop,2,Fighting,455,50,less than a hundred,95,less than a hundred,70,less than a hundred,70,average
+80,80,62,Poliwrath,1,Water,510,90,less than a hundred,95,less than a hundred,70,less than a hundred,70,average
+405,405,338,Solrock,3,Rock,460,90,less than a hundred,95,less than a hundred,70,less than a hundred,70,average
+600,600,503,Samurott,5,Water,528,95,less than a hundred,100,greater than a hundred,70,less than a hundred,70,average
+90,90,71,Victreebel,1,Grass,490,80,less than a hundred,105,greater than a hundred,70,less than a hundred,70,average
+849,849,724,Decidueye,7,Grass,530,78,less than a hundred,107,greater than a hundred,70,less than a hundred,70,average
+670,670,566,Archen,5,Rock,401,55,less than a hundred,112,greater than a hundred,70,less than a hundred,70,average
+488,488,405,Luxray,4,Electric,523,80,less than a hundred,120,greater than a hundred,70,less than a hundred,70,average
+345,345,286,Breloom,3,Grass,460,60,less than a hundred,130,greater than a hundred,70,less than a hundred,70,average
+316,316,260,Mega Swampert,3,Water,635,100,greater than a hundred,150,greater than a hundred,70,less than a hundred,70,average
+768,768,656,Froakie,6,Water,314,41,less than a hundred,56,less than a hundred,71,less than a hundred,70,average
+21,21,17,Pidgeotto,1,Normal,349,63,less than a hundred,60,less than a hundred,71,less than a hundred,70,average
+483,483,400,Bibarel,4,Normal,410,79,less than a hundred,85,less than a hundred,71,less than a hundred,70,average
+812,812,697,Tyrantrum,6,Rock,521,82,less than a hundred,121,greater than a hundred,71,less than a hundred,70,average
+624,624,527,Woobat,5,Psychic,323,65,less than a hundred,45,less than a hundred,72,less than a hundred,70,average
+780,780,667,Litleo,6,Fire,369,62,less than a hundred,50,less than a hundred,72,less than a hundred,70,average
+25,25,19,Alolan Rattata,1,Dark,253,30,less than a hundred,56,less than a hundred,72,less than a hundred,70,average
+24,24,19,Rattata,1,Normal,253,30,less than a hundred,56,less than a hundred,72,less than a hundred,70,average
+800,800,685,Slurpuff,6,Fairy,480,82,less than a hundred,80,less than a hundred,72,less than a hundred,70,average
+895,895,763,Tsareena,7,Grass,510,72,less than a hundred,120,greater than a hundred,72,less than a hundred,70,average
+766,766,654,Braixen,6,Fire,409,59,less than a hundred,59,less than a hundred,73,less than a hundred,70,average
+802,802,687,Malamar,6,Dark,482,86,less than a hundred,92,less than a hundred,73,less than a hundred,70,average
+520,520,434,Stunky,4,Poison,329,63,less than a hundred,63,less than a hundred,74,less than a hundred,70,average
+651,651,552,Krokorok,5,Ground,351,60,less than a hundred,82,less than a hundred,74,less than a hundred,70,average
+635,635,537,Seismitoad,5,Water,509,105,greater than a hundred,95,less than a hundred,74,less than a hundred,70,average
+287,287,235,Smeargle,2,Normal,250,55,less than a hundred,20,less than a hundred,75,less than a hundred,70,average
+676,676,572,Minccino,5,Normal,300,55,less than a hundred,50,less than a hundred,75,less than a hundred,70,average
+276,276,225,Delibird,2,Ice,330,45,less than a hundred,55,less than a hundred,75,less than a hundred,70,average
+689,689,585,Deerling,5,Normal,335,60,less than a hundred,60,less than a hundred,75,less than a hundred,70,average
+784,784,671,Florges,6,Fairy,552,78,less than a hundred,65,less than a hundred,75,less than a hundred,70,average
+411,411,344,Claydol,3,Ground,500,60,less than a hundred,70,less than a hundred,75,less than a hundred,70,average
+172,172,133,Partner Eevee,1,Normal,435,65,less than a hundred,75,less than a hundred,75,less than a hundred,70,average
+822,822,707,Klefki,6,Steel,470,57,less than a hundred,80,less than a hundred,75,less than a hundred,70,average
+112,112,84,Doduo,1,Normal,310,35,less than a hundred,85,less than a hundred,75,less than a hundred,70,average
+857,857,732,Trumbeak,7,Normal,355,55,less than a hundred,85,less than a hundred,75,less than a hundred,70,average
+18,18,15,Beedrill,1,Bug,395,65,less than a hundred,90,less than a hundred,75,less than a hundred,70,average
+414,414,347,Anorith,3,Rock,355,45,less than a hundred,95,less than a hundred,75,less than a hundred,70,average
+673,673,569,Garbodor,5,Poison,474,80,less than a hundred,95,less than a hundred,75,less than a hundred,70,average
+130,130,99,Kingler,1,Water,475,55,less than a hundred,130,greater than a hundred,75,less than a hundred,70,average
+920,920,787,Tapu Bulu,7,Grass,570,70,less than a hundred,130,greater than a hundred,75,less than a hundred,70,average
+261,261,212,Mega Scizor,2,Bug,600,70,less than a hundred,150,greater than a hundred,75,less than a hundred,70,average
+264,264,214,Mega Heracross,2,Bug,600,80,less than a hundred,185,greater than a hundred,75,less than a hundred,70,average
+619,619,522,Blitzle,5,Electric,295,45,less than a hundred,60,less than a hundred,76,less than a hundred,70,average
+42,42,31,Nidoqueen,1,Poison,505,90,less than a hundred,92,less than a hundred,76,less than a hundred,70,average
+140,140,107,Hitmonchan,1,Fighting,455,50,less than a hundred,105,greater than a hundred,76,less than a hundred,70,average
+889,889,757,Salandit,7,Poison,320,48,less than a hundred,44,less than a hundred,77,less than a hundred,70,average
+27,27,20,Alolan Raticate,1,Dark,413,75,less than a hundred,71,less than a hundred,77,less than a hundred,70,average
+602,602,505,Watchog,5,Normal,420,60,less than a hundred,85,less than a hundred,77,less than a hundred,70,average
+773,773,660,Diggersby,6,Normal,423,85,less than a hundred,56,less than a hundred,78,less than a hundred,70,average
+11,11,9,Blastoise,1,Water,530,79,less than a hundred,83,less than a hundred,78,less than a hundred,70,average
+12,12,9,Mega Blastoise,1,Water,630,79,less than a hundred,103,greater than a hundred,78,less than a hundred,70,average
+205,205,160,Feraligatr,2,Water,530,85,less than a hundred,105,greater than a hundred,78,less than a hundred,70,average
+688,688,584,Vanilluxe,5,Ice,535,71,less than a hundred,95,less than a hundred,79,less than a hundred,70,average
+166,166,129,Magikarp,1,Water,200,20,less than a hundred,10,less than a hundred,80,less than a hundred,70,average
+416,416,349,Feebas,3,Water,200,20,less than a hundred,15,less than a hundred,80,less than a hundred,70,average
+899,899,767,Wimpod,7,Bug,230,25,less than a hundred,35,less than a hundred,80,less than a hundred,70,average
+122,122,92,Gastly,1,Ghost,310,30,less than a hundred,35,less than a hundred,80,less than a hundred,70,average
+234,234,188,Skiploom,2,Grass,340,55,less than a hundred,45,less than a hundred,80,less than a hundred,70,average
+392,392,326,Grumpig,3,Psychic,470,80,less than a hundred,45,less than a hundred,80,less than a hundred,70,average
+557,557,468,Togekiss,4,Fairy,545,85,less than a hundred,50,less than a hundred,80,less than a hundred,70,average
+713,713,609,Chandelure,5,Ghost,520,60,less than a hundred,55,less than a hundred,80,less than a hundred,70,average
+370,370,308,Medicham,3,Fighting,410,60,less than a hundred,60,less than a hundred,80,less than a hundred,70,average
+343,343,284,Masquerain,3,Bug,454,70,less than a hundred,60,less than a hundred,80,less than a hundred,70,average
+5,5,5,Charmeleon,1,Fire,405,58,less than a hundred,64,less than a hundred,80,less than a hundred,70,average
+201,201,156,Quilava,2,Fire,405,58,less than a hundred,64,less than a hundred,80,less than a hundred,70,average
+400,400,334,Altaria,3,Dragon,490,75,less than a hundred,70,less than a hundred,80,less than a hundred,70,average
+480,480,397,Staravia,4,Normal,340,55,less than a hundred,75,less than a hundred,80,less than a hundred,70,average
+434,434,362,Glalie,3,Ice,480,80,less than a hundred,80,less than a hundred,80,less than a hundred,70,average
+585,585,489,Phione,4,Water,480,80,less than a hundred,80,less than a hundred,80,less than a hundred,70,average
+511,511,426,Drifblim,4,Ghost,498,150,greater than a hundred,80,less than a hundred,80,less than a hundred,70,average
+2,2,3,Venusaur,1,Grass,525,80,less than a hundred,82,less than a hundred,80,less than a hundred,70,average
+199,199,154,Meganium,2,Grass,525,80,less than a hundred,82,less than a hundred,80,less than a hundred,70,average
+31,31,24,Arbok,1,Poison,448,60,less than a hundred,95,less than a hundred,80,less than a hundred,70,average
+3,3,3,Mega Venusaur,1,Grass,625,80,less than a hundred,100,greater than a hundred,80,less than a hundred,70,average
+333,333,275,Shiftry,3,Grass,480,90,less than a hundred,100,greater than a hundred,80,less than a hundred,70,average
+401,401,334,Mega Altaria,3,Dragon,590,75,less than a hundred,110,greater than a hundred,80,less than a hundred,70,average
+605,605,508,Stoutland,5,Normal,500,85,less than a hundred,110,greater than a hundred,80,less than a hundred,70,average
+180,180,141,Kabutops,1,Rock,495,60,less than a hundred,115,greater than a hundred,80,less than a hundred,70,average
+311,311,257,Blaziken,3,Fire,530,80,less than a hundred,120,greater than a hundred,80,less than a hundred,70,average
+898,898,766,Passimian,7,Fighting,490,100,greater than a hundred,120,greater than a hundred,80,less than a hundred,70,average
+733,733,628,Braviary,5,Normal,510,100,greater than a hundred,123,greater than a hundred,80,less than a hundred,70,average
+562,562,473,Mamoswine,4,Ice,530,110,greater than a hundred,130,greater than a hundred,80,less than a hundred,70,average
+417,417,350,Milotic,3,Water,540,95,less than a hundred,60,less than a hundred,81,less than a hundred,70,average
+474,474,391,Monferno,4,Fire,405,64,less than a hundred,78,less than a hundred,81,less than a hundred,70,average
+167,167,130,Gyarados,1,Water,540,95,less than a hundred,125,greater than a hundred,81,less than a hundred,70,average
+168,168,130,Mega Gyarados,1,Water,640,95,less than a hundred,155,greater than a hundred,81,less than a hundred,70,average
+530,530,444,Gabite,4,Dragon,410,68,less than a hundred,90,less than a hundred,82,less than a hundred,70,average
+875,875,745,Lycanroc Midnight Form,7,Rock,487,85,less than a hundred,115,greater than a hundred,82,less than a hundred,70,average
+593,593,496,Servine,5,Grass,413,60,less than a hundred,60,less than a hundred,83,less than a hundred,70,average
+292,292,240,Magby,2,Fire,365,45,less than a hundred,75,less than a hundred,83,less than a hundred,70,average
+556,556,467,Magmortar,4,Fire,540,75,less than a hundred,95,less than a hundred,83,less than a hundred,70,average
+870,870,742,Cutiefly,7,Bug,304,40,less than a hundred,45,less than a hundred,84,less than a hundred,70,average
+775,775,662,Fletchinder,6,Fire,382,62,less than a hundred,73,less than a hundred,84,less than a hundred,70,average
+829,829,711,Gourgeist Average Size,6,Ghost,494,65,less than a hundred,90,less than a hundred,84,less than a hundred,70,average
+521,521,435,Skuntank,4,Poison,479,103,greater than a hundred,93,less than a hundred,84,less than a hundred,70,average
+336,336,278,Wingull,3,Water,270,40,less than a hundred,30,less than a hundred,85,less than a hundred,70,average
+211,211,166,Ledian,2,Bug,390,55,less than a hundred,35,less than a hundred,85,less than a hundred,70,average
+155,155,120,Staryu,1,Water,340,30,less than a hundred,45,less than a hundred,85,less than a hundred,70,average
+378,378,314,Illumise,3,Bug,430,65,less than a hundred,47,less than a hundred,85,less than a hundred,70,average
+334,334,276,Taillow,3,Normal,270,40,less than a hundred,55,less than a hundred,85,less than a hundred,70,average
+517,517,431,Glameow,4,Normal,310,49,less than a hundred,55,less than a hundred,85,less than a hundred,70,average
+506,506,421,Cherrim,4,Grass,450,70,less than a hundred,60,less than a hundred,85,less than a hundred,70,average
+152,152,117,Seadra,1,Water,440,55,less than a hundred,65,less than a hundred,85,less than a hundred,70,average
+503,503,418,Buizel,4,Water,330,55,less than a hundred,65,less than a hundred,85,less than a hundred,70,average
+236,236,190,Aipom,2,Normal,360,55,less than a hundred,70,less than a hundred,85,less than a hundred,70,average
+377,377,313,Volbeat,3,Bug,430,65,less than a hundred,73,less than a hundred,85,less than a hundred,70,average
+254,254,207,Gligar,2,Ground,430,65,less than a hundred,75,less than a hundred,85,less than a hundred,70,average
+921,921,788,Tapu Fini,7,Water,570,70,less than a hundred,75,less than a hundred,85,less than a hundred,70,average
+250,250,203,Girafarig,2,Normal,455,70,less than a hundred,80,less than a hundred,85,less than a hundred,70,average
+73,73,55,Golduck,1,Water,500,80,less than a hundred,82,less than a hundred,85,less than a hundred,70,average
+259,259,211,Qwilfish,2,Water,440,65,less than a hundred,95,less than a hundred,85,less than a hundred,70,average
+286,286,234,Stantler,2,Normal,465,73,less than a hundred,95,less than a hundred,85,less than a hundred,70,average
+282,282,230,Kingdra,2,Water,540,75,less than a hundred,95,less than a hundred,85,less than a hundred,70,average
+45,45,34,Nidoking,1,Poison,505,81,less than a hundred,102,greater than a hundred,85,less than a hundred,70,average
+542,542,454,Toxicroak,4,Poison,490,83,less than a hundred,106,greater than a hundred,85,less than a hundred,70,average
+917,917,784,Kommo-o,7,Dragon,600,75,less than a hundred,110,greater than a hundred,85,less than a hundred,70,average
+163,163,127,Pinsir,1,Bug,500,65,less than a hundred,125,greater than a hundred,85,less than a hundred,70,average
+637,637,539,Sawk,5,Fighting,465,75,less than a hundred,125,greater than a hundred,85,less than a hundred,70,average
+263,263,214,Heracross,2,Bug,500,80,less than a hundred,125,greater than a hundred,85,less than a hundred,70,average
+570,570,479,Heat Rotom,4,Electric,520,50,less than a hundred,65,less than a hundred,86,less than a hundred,70,average
+571,571,479,Wash Rotom,4,Electric,520,50,less than a hundred,65,less than a hundred,86,less than a hundred,70,average
+572,572,479,Frost Rotom,4,Electric,520,50,less than a hundred,65,less than a hundred,86,less than a hundred,70,average
+573,573,479,Fan Rotom,4,Electric,520,50,less than a hundred,65,less than a hundred,86,less than a hundred,70,average
+574,574,479,Mow Rotom,4,Electric,520,50,less than a hundred,65,less than a hundred,86,less than a hundred,70,average
+139,139,106,Hitmonlee,1,Fighting,455,50,less than a hundred,120,greater than a hundred,87,less than a hundred,70,average
+627,627,530,Excadrill,5,Ground,508,110,greater than a hundred,135,greater than a hundred,88,less than a hundred,70,average
+779,779,666,Vivillon,6,Bug,411,80,less than a hundred,52,less than a hundred,89,less than a hundred,70,average
+81,81,63,Abra,1,Psychic,310,25,less than a hundred,20,less than a hundred,90,less than a hundred,70,average
+68,68,52,Alolan Meowth,1,Dark,290,40,less than a hundred,35,less than a hundred,90,less than a hundred,70,average
+157,157,122,Mr. Mime,1,Psychic,460,40,less than a hundred,45,less than a hundred,90,less than a hundred,70,average
+67,67,52,Meowth,1,Normal,290,40,less than a hundred,45,less than a hundred,90,less than a hundred,70,average
+78,78,60,Poliwag,1,Water,300,40,less than a hundred,50,less than a hundred,90,less than a hundred,70,average
+64,64,50,Alolan Diglett,1,Ground,265,10,less than a hundred,55,less than a hundred,90,less than a hundred,70,average
+32,32,25,Pikachu,1,Electric,320,35,less than a hundred,55,less than a hundred,90,less than a hundred,70,average
+647,647,549,Lilligant,5,Grass,480,70,less than a hundred,60,less than a hundred,90,less than a hundred,70,average
+79,79,61,Poliwhirl,1,Water,385,65,less than a hundred,65,less than a hundred,90,less than a hundred,70,average
+62,62,49,Venomoth,1,Bug,450,70,less than a hundred,65,less than a hundred,90,less than a hundred,70,average
+360,360,301,Delcatty,3,Normal,400,70,less than a hundred,65,less than a hundred,90,less than a hundred,70,average
+490,490,407,Roserade,4,Grass,515,60,less than a hundred,70,less than a hundred,90,less than a hundred,70,average
+207,207,162,Furret,2,Normal,415,85,less than a hundred,76,less than a hundred,90,less than a hundred,70,average
+55,55,42,Golbat,1,Poison,455,75,less than a hundred,80,less than a hundred,90,less than a hundred,70,average
+347,347,288,Vigoroth,3,Normal,440,80,less than a hundred,80,less than a hundred,90,less than a hundred,70,average
+563,563,474,Porygon-Z,4,Normal,535,85,less than a hundred,80,less than a hundred,90,less than a hundred,70,average
+99,99,77,Ponyta,1,Fire,410,50,less than a hundred,85,less than a hundred,90,less than a hundred,70,average
+851,851,726,Torracat,7,Fire,420,65,less than a hundred,85,less than a hundred,90,less than a hundred,70,average
+149,149,115,Kangaskhan,1,Normal,490,105,greater than a hundred,95,less than a hundred,90,less than a hundred,70,average
+705,705,601,Klinklang,5,Steel,520,60,less than a hundred,100,greater than a hundred,90,less than a hundred,70,average
+535,535,448,Lucario,4,Fighting,525,70,less than a hundred,110,greater than a hundred,90,less than a hundred,70,average
+402,402,335,Zangoose,3,Normal,458,73,less than a hundred,115,greater than a hundred,90,less than a hundred,70,average
+569,569,479,Rotom,4,Electric,440,50,less than a hundred,50,less than a hundred,91,less than a hundred,70,average
+545,545,457,Lumineon,4,Water,460,69,less than a hundred,69,less than a hundred,91,less than a hundred,70,average
+640,640,542,Leavanny,5,Bug,500,75,less than a hundred,103,greater than a hundred,92,less than a hundred,70,average
+912,912,779,Bruxish,7,Water,475,68,less than a hundred,105,greater than a hundred,92,less than a hundred,70,average
+652,652,553,Krookodile,5,Ground,519,95,less than a hundred,117,greater than a hundred,92,less than a hundred,70,average
+532,532,445,Mega Garchomp,4,Dragon,700,108,greater than a hundred,170,greater than a hundred,92,less than a hundred,70,average
+866,866,741,Oricorio Baile Style,7,Fire,476,75,less than a hundred,70,less than a hundred,93,less than a hundred,70,average
+867,867,741,Oricorio Pom-Pom Style,7,Electric,476,75,less than a hundred,70,less than a hundred,93,less than a hundred,70,average
+868,868,741,Oricorio Pa'u Style,7,Psychic,476,75,less than a hundred,70,less than a hundred,93,less than a hundred,70,average
+869,869,741,Oricorio Sensu Style,7,Ghost,476,75,less than a hundred,70,less than a hundred,93,less than a hundred,70,average
+162,162,126,Magmar,1,Fire,495,65,less than a hundred,95,less than a hundred,93,less than a hundred,70,average
+618,618,521,Unfezant,5,Normal,488,80,less than a hundred,115,greater than a hundred,93,less than a hundred,70,average
+376,376,312,Minun,3,Electric,405,60,less than a hundred,40,less than a hundred,95,less than a hundred,70,average
+123,123,93,Haunter,1,Ghost,405,45,less than a hundred,50,less than a hundred,95,less than a hundred,70,average
+375,375,311,Plusle,3,Electric,405,60,less than a hundred,50,less than a hundred,95,less than a hundred,70,average
+160,160,124,Jynx,1,Ice,455,65,less than a hundred,50,less than a hundred,95,less than a hundred,70,average
+63,63,50,Diglett,1,Ground,265,10,less than a hundred,55,less than a hundred,95,less than a hundred,70,average
+291,291,239,Elekid,2,Electric,360,45,less than a hundred,63,less than a hundred,95,less than a hundred,70,average
+306,306,253,Grovyle,3,Grass,405,50,less than a hundred,65,less than a hundred,95,less than a hundred,70,average
+239,239,193,Yanma,2,Bug,390,65,less than a hundred,65,less than a hundred,95,less than a hundred,70,average
+223,223,178,Xatu,2,Psychic,470,65,less than a hundred,75,less than a hundred,95,less than a hundred,70,average
+558,558,469,Yanmega,4,Bug,515,86,less than a hundred,76,less than a hundred,95,less than a hundred,70,average
+919,919,786,Tapu Lele,7,Psychic,570,70,less than a hundred,85,less than a hundred,95,less than a hundred,70,average
+540,540,452,Drapion,4,Poison,500,70,less than a hundred,90,less than a hundred,95,less than a hundred,70,average
+561,561,472,Gliscor,4,Ground,510,75,less than a hundred,95,less than a hundred,95,less than a hundred,70,average
+690,690,586,Sawsbuck,5,Normal,475,80,less than a hundred,100,greater than a hundred,95,less than a hundred,70,average
+75,75,57,Primeape,1,Fighting,455,65,less than a hundred,105,greater than a hundred,95,less than a hundred,70,average
+77,77,59,Arcanine,1,Fire,555,90,less than a hundred,110,greater than a hundred,95,less than a hundred,70,average
+555,555,466,Electivire,4,Electric,540,75,less than a hundred,123,greater than a hundred,95,less than a hundred,70,average
+655,655,555,Darmanitan Standard Mode,5,Fire,480,105,greater than a hundred,140,greater than a hundred,95,less than a hundred,70,average
+911,911,778,Mimikyu,7,Ghost,476,55,less than a hundred,90,less than a hundred,96,less than a hundred,70,average
+910,910,777,Togedemaru,7,Electric,435,65,less than a hundred,98,less than a hundred,96,less than a hundred,70,average
+443,443,370,Luvdisc,3,Water,330,43,less than a hundred,30,less than a hundred,97,less than a hundred,70,average
+664,664,561,Sigilyph,5,Psychic,490,72,less than a hundred,58,less than a hundred,97,less than a hundred,70,average
+769,769,657,Frogadier,6,Water,405,54,less than a hundred,63,less than a hundred,97,less than a hundred,70,average
+26,26,20,Raticate,1,Normal,413,55,less than a hundred,81,less than a hundred,97,less than a hundred,70,average
+685,685,581,Swanna,5,Water,473,75,less than a hundred,87,less than a hundred,98,less than a hundred,70,average
+648,648,550,Basculin Red-Striped Form,5,Water,460,70,less than a hundred,92,less than a hundred,98,less than a hundred,70,average
+649,649,550,Basculin Blue-Striped Form,5,Water,460,70,less than a hundred,92,less than a hundred,98,less than a hundred,70,average
+830,830,711,Gourgeist Small Size,6,Ghost,494,55,less than a hundred,85,less than a hundred,99,less than a hundred,70,average
+131,131,100,Voltorb,1,Electric,330,40,less than a hundred,30,less than a hundred,100,greater than a hundred,70,average
+896,896,764,Comfey,7,Fairy,485,51,less than a hundred,52,less than a hundred,100,greater than a hundred,70,average
+742,742,637,Volcarona,5,Bug,550,85,less than a hundred,60,less than a hundred,100,greater than a hundred,70,average
+321,321,264,Linoone,3,Normal,420,78,less than a hundred,70,less than a hundred,100,greater than a hundred,70,average
+92,92,73,Tentacruel,1,Water,515,80,less than a hundred,70,less than a hundred,100,greater than a hundred,70,average
+50,50,38,Ninetales,1,Fire,505,73,less than a hundred,76,less than a hundred,100,greater than a hundred,70,average
+293,293,241,Miltank,2,Normal,490,95,less than a hundred,80,less than a hundred,100,greater than a hundred,70,average
+6,6,6,Charizard,1,Fire,534,78,less than a hundred,84,less than a hundred,100,greater than a hundred,70,average
+202,202,157,Typhlosion,2,Fire,534,78,less than a hundred,84,less than a hundred,100,greater than a hundred,70,average
+29,29,22,Fearow,1,Normal,442,65,less than a hundred,90,less than a hundred,100,greater than a hundred,70,average
+371,371,308,Mega Medicham,3,Fighting,510,60,less than a hundred,100,greater than a hundred,100,greater than a hundred,70,average
+396,396,330,Flygon,3,Ground,520,80,less than a hundred,100,greater than a hundred,100,greater than a hundred,70,average
+586,586,490,Manaphy,4,Water,600,100,greater than a hundred,100,greater than a hundred,100,greater than a hundred,70,average
+8,8,6,Mega Charizard Y,1,Fire,634,78,less than a hundred,104,greater than a hundred,100,greater than a hundred,70,average
+435,435,362,Mega Glalie,3,Ice,580,80,less than a hundred,120,greater than a hundred,100,greater than a hundred,70,average
+481,481,398,Staraptor,4,Normal,485,85,less than a hundred,120,greater than a hundred,100,greater than a hundred,70,average
+150,150,115,Mega Kangaskhan,1,Normal,590,105,greater than a hundred,125,greater than a hundred,100,greater than a hundred,70,average
+7,7,6,Mega Charizard X,1,Fire,634,78,less than a hundred,130,greater than a hundred,100,greater than a hundred,70,average
+312,312,257,Mega Blaziken,3,Fire,630,80,less than a hundred,160,greater than a hundred,100,greater than a hundred,70,average
+348,348,289,Slaking,3,Normal,670,150,greater than a hundred,160,greater than a hundred,100,greater than a hundred,70,average
+817,817,702,Dedenne,6,Electric,431,67,less than a hundred,58,less than a hundred,101,greater than a hundred,70,average
+22,22,18,Pidgeot,1,Normal,479,83,less than a hundred,80,less than a hundred,101,greater than a hundred,70,average
+609,609,512,Simisage,5,Grass,498,75,less than a hundred,98,less than a hundred,101,greater than a hundred,70,average
+611,611,514,Simisear,5,Fire,498,75,less than a hundred,98,less than a hundred,101,greater than a hundred,70,average
+613,613,516,Simipour,5,Water,498,75,less than a hundred,98,less than a hundred,101,greater than a hundred,70,average
+789,789,676,Furfrou,6,Normal,472,75,less than a hundred,80,less than a hundred,102,greater than a hundred,70,average
+531,531,445,Garchomp,4,Dragon,600,108,greater than a hundred,130,greater than a hundred,102,greater than a hundred,70,average
+691,691,587,Emolga,5,Electric,428,55,less than a hundred,75,less than a hundred,103,greater than a hundred,70,average
+791,791,678,Meowstic Male,6,Psychic,466,74,less than a hundred,48,less than a hundred,104,greater than a hundred,70,average
+792,792,678,Meowstic Female,6,Psychic,466,74,less than a hundred,48,less than a hundred,104,greater than a hundred,70,average
+767,767,655,Delphox,6,Fire,534,75,less than a hundred,69,less than a hundred,104,greater than a hundred,70,average
+82,82,64,Kadabra,1,Psychic,400,40,less than a hundred,35,less than a hundred,105,greater than a hundred,70,average
+719,719,615,Cryogonal,5,Ice,515,80,less than a hundred,50,less than a hundred,105,greater than a hundred,70,average
+373,373,310,Manectric,3,Electric,475,70,less than a hundred,75,less than a hundred,105,greater than a hundred,70,average
+161,161,125,Electabuzz,1,Electric,490,65,less than a hundred,83,less than a hundred,105,greater than a hundred,70,average
+101,101,78,Rapidash,1,Fire,500,65,less than a hundred,100,greater than a hundred,105,greater than a hundred,70,average
+675,675,571,Zoroark,5,Dark,510,60,less than a hundred,105,greater than a hundred,105,greater than a hundred,70,average
+159,159,123,Scyther,1,Bug,500,70,less than a hundred,110,greater than a hundred,105,greater than a hundred,70,average
+725,725,620,Mienshao,5,Fighting,510,65,less than a hundred,125,greater than a hundred,105,greater than a hundred,70,average
+164,164,127,Mega Pinsir,1,Bug,600,65,less than a hundred,155,greater than a hundred,105,greater than a hundred,70,average
+781,781,668,Pyroar,6,Fire,507,86,less than a hundred,68,less than a hundred,106,greater than a hundred,70,average
+607,607,510,Liepard,5,Dark,446,64,less than a hundred,88,less than a hundred,106,greater than a hundred,70,average
+700,700,596,Galvantula,5,Bug,472,70,less than a hundred,77,less than a hundred,108,greater than a hundred,70,average
+475,475,392,Infernape,4,Fire,534,76,less than a hundred,104,greater than a hundred,108,greater than a hundred,70,average
+810,810,695,Heliolisk,6,Electric,481,62,less than a hundred,55,less than a hundred,109,greater than a hundred,70,average
+51,51,38,Alolan Ninetales,1,Ice,505,73,less than a hundred,67,less than a hundred,109,greater than a hundred,70,average
+737,737,632,Durant,5,Bug,484,58,less than a hundred,109,greater than a hundred,109,greater than a hundred,70,average
+235,235,189,Jumpluff,2,Grass,460,75,less than a hundred,55,less than a hundred,110,greater than a hundred,70,average
+124,124,94,Gengar,1,Ghost,500,60,less than a hundred,65,less than a hundred,110,greater than a hundred,70,average
+242,242,196,Espeon,2,Psychic,525,65,less than a hundred,65,less than a hundred,110,greater than a hundred,70,average
+568,568,478,Froslass,4,Ice,480,70,less than a hundred,80,less than a hundred,110,greater than a hundred,70,average
+35,35,26,Alolan Raichu,1,Electric,485,60,less than a hundred,85,less than a hundred,110,greater than a hundred,70,average
+34,34,26,Raichu,1,Electric,485,60,less than a hundred,90,less than a hundred,110,greater than a hundred,70,average
+66,66,51,Alolan Dugtrio,1,Ground,425,35,less than a hundred,100,greater than a hundred,110,greater than a hundred,70,average
+165,165,128,Tauros,1,Normal,490,75,less than a hundred,100,greater than a hundred,110,greater than a hundred,70,average
+113,113,85,Dodrio,1,Normal,470,60,less than a hundred,110,greater than a hundred,110,greater than a hundred,70,average
+876,876,745,Lycanroc Dusk Form,7,Rock,487,75,less than a hundred,117,greater than a hundred,110,greater than a hundred,70,average
+671,671,567,Archeops,5,Rock,567,75,less than a hundred,140,greater than a hundred,110,greater than a hundred,70,average
+843,843,719,Mega Diancie,6,Rock,700,50,less than a hundred,160,greater than a hundred,110,greater than a hundred,70,average
+518,518,432,Purugly,4,Normal,452,71,less than a hundred,82,less than a hundred,112,greater than a hundred,70,average
+643,643,545,Scolipede,5,Bug,485,60,less than a hundred,100,greater than a hundred,112,greater than a hundred,70,average
+874,874,745,Lycanroc Midday Form,7,Rock,487,75,less than a hundred,115,greater than a hundred,112,greater than a hundred,70,average
+536,536,448,Mega Lucario,4,Fighting,625,70,less than a hundred,145,greater than a hundred,112,greater than a hundred,70,average
+594,594,497,Serperior,5,Grass,528,75,less than a hundred,75,less than a hundred,113,greater than a hundred,70,average
+625,625,528,Swoobat,5,Psychic,425,67,less than a hundred,57,less than a hundred,114,greater than a hundred,70,average
+71,71,53,Alolan Persian,1,Dark,440,65,less than a hundred,60,less than a hundred,115,greater than a hundred,70,average
+70,70,53,Persian,1,Normal,440,65,less than a hundred,70,less than a hundred,115,greater than a hundred,70,average
+156,156,121,Starmie,1,Water,520,60,less than a hundred,75,less than a hundred,115,greater than a hundred,70,average
+677,677,573,Cinccino,5,Normal,470,75,less than a hundred,95,less than a hundred,115,greater than a hundred,70,average
+504,504,419,Floatzel,4,Water,495,85,less than a hundred,105,greater than a hundred,115,greater than a hundred,70,average
+645,645,547,Whimsicott,5,Grass,480,60,less than a hundred,67,less than a hundred,116,greater than a hundred,70,average
+620,620,523,Zebstrika,5,Electric,497,75,less than a hundred,100,greater than a hundred,116,greater than a hundred,70,average
+890,890,758,Salazzle,7,Poison,480,68,less than a hundred,64,less than a hundred,117,greater than a hundred,70,average
+816,816,701,Hawlucha,6,Fighting,500,78,less than a hundred,92,less than a hundred,118,greater than a hundred,70,average
+83,83,65,Alakazam,1,Psychic,500,55,less than a hundred,50,less than a hundred,120,greater than a hundred,70,average
+33,33,25,Partner Pikachu,1,Electric,430,45,less than a hundred,80,less than a hundred,120,greater than a hundred,70,average
+307,307,254,Sceptile,3,Grass,530,70,less than a hundred,85,less than a hundred,120,greater than a hundred,70,average
+65,65,51,Dugtrio,1,Ground,425,35,less than a hundred,100,greater than a hundred,120,greater than a hundred,70,average
+907,907,774,Minior Core Form,7,Rock,500,60,less than a hundred,100,greater than a hundred,120,greater than a hundred,70,average
+23,23,18,Mega Pidgeot,1,Normal,579,83,less than a hundred,80,less than a hundred,121,greater than a hundred,70,average
+770,770,658,Greninja,6,Water,530,72,less than a hundred,95,less than a hundred,122,greater than a hundred,70,average
+836,836,715,Noivern,6,Flying,535,85,less than a hundred,70,less than a hundred,123,greater than a hundred,70,average
+871,871,743,Ribombee,7,Bug,464,60,less than a hundred,55,less than a hundred,124,greater than a hundred,70,average
+335,335,277,Swellow,3,Normal,455,60,less than a hundred,85,less than a hundred,125,greater than a hundred,70,average
+776,776,663,Talonflame,6,Fire,499,78,less than a hundred,81,less than a hundred,126,greater than a hundred,70,average
+125,125,94,Mega Gengar,1,Ghost,600,60,less than a hundred,65,less than a hundred,130,greater than a hundred,70,average
+174,174,135,Jolteon,1,Electric,525,65,less than a hundred,65,less than a hundred,130,greater than a hundred,70,average
+214,214,169,Crobat,2,Poison,535,85,less than a hundred,90,less than a hundred,130,greater than a hundred,70,average
+181,181,142,Aerodactyl,1,Rock,515,80,less than a hundred,105,greater than a hundred,130,greater than a hundred,70,average
+918,918,785,Tapu Koko,7,Electric,570,70,less than a hundred,115,greater than a hundred,130,greater than a hundred,70,average
+771,771,658,Ash-Greninja,6,Water,640,72,less than a hundred,145,greater than a hundred,132,greater than a hundred,70,average
+374,374,310,Mega Manectric,3,Electric,575,70,less than a hundred,75,less than a hundred,135,greater than a hundred,70,average
+721,721,617,Accelgor,5,Bug,495,80,less than a hundred,70,less than a hundred,145,greater than a hundred,70,average
+308,308,254,Mega Sceptile,3,Grass,630,70,less than a hundred,110,greater than a hundred,145,greater than a hundred,70,average
+19,19,15,Mega Beedrill,1,Bug,495,65,less than a hundred,150,greater than a hundred,145,greater than a hundred,70,average
+84,84,65,Mega Alakazam,1,Psychic,600,55,less than a hundred,50,less than a hundred,150,greater than a hundred,70,average
+132,132,101,Electrode,1,Electric,490,60,less than a hundred,50,less than a hundred,150,greater than a hundred,70,average
+182,182,142,Mega Aerodactyl,1,Rock,615,80,less than a hundred,135,greater than a hundred,150,greater than a hundred,70,average
+350,350,291,Ninjask,3,Bug,456,61,less than a hundred,90,less than a hundred,160,greater than a hundred,70,average
+753,753,645,Landorus Therian Forme,5,Ground,600,89,less than a hundred,145,greater than a hundred,91,less than a hundred,90,nicest
+749,749,642,Thundurus Therian Forme,5,Electric,580,79,less than a hundred,105,greater than a hundred,101,greater than a hundred,90,nicest
+752,752,645,Landorus Incarnate Forme,5,Ground,600,89,less than a hundred,125,greater than a hundred,101,greater than a hundred,90,nicest
+455,455,380,Latias,3,Dragon,600,80,less than a hundred,80,less than a hundred,110,greater than a hundred,90,nicest
+457,457,381,Latios,3,Dragon,600,80,less than a hundred,90,less than a hundred,110,greater than a hundred,90,nicest
+456,456,380,Mega Latias,3,Dragon,700,80,less than a hundred,100,greater than a hundred,110,greater than a hundred,90,nicest
+458,458,381,Mega Latios,3,Dragon,700,80,less than a hundred,130,greater than a hundred,110,greater than a hundred,90,nicest
+748,748,642,Thundurus Incarnate Forme,5,Electric,580,79,less than a hundred,115,greater than a hundred,111,greater than a hundred,90,nicest
+746,746,641,Tornadus Incarnate Forme,5,Flying,580,79,less than a hundred,115,greater than a hundred,111,greater than a hundred,90,nicest
+747,747,641,Tornadus Therian Forme,5,Flying,580,79,less than a hundred,100,greater than a hundred,121,greater than a hundred,90,nicest
+541,541,453,Croagunk,4,Poison,300,48,less than a hundred,61,less than a hundred,50,less than a hundred,100,nicest
+487,487,404,Luxio,4,Electric,363,60,less than a hundred,85,less than a hundred,60,less than a hundred,100,nicest
+844,844,720,Hoopa Hoopa Confined,6,Psychic,600,80,less than a hundred,110,greater than a hundred,70,less than a hundred,100,nicest
+846,846,721,Volcanion,6,Fire,600,80,less than a hundred,110,greater than a hundred,70,less than a hundred,100,nicest
+580,580,485,Heatran,4,Fire,600,91,less than a hundred,90,less than a hundred,77,less than a hundred,100,nicest
+845,845,720,Hoopa Hoopa Unbound,6,Psychic,680,80,less than a hundred,160,greater than a hundred,80,less than a hundred,100,nicest
+584,584,488,Cresselia,4,Psychic,600,120,greater than a hundred,70,less than a hundred,85,less than a hundred,100,nicest
+759,759,648,Meloetta Aria Forme,5,Normal,600,100,greater than a hundred,77,less than a hundred,90,less than a hundred,100,nicest
+502,502,417,Pachirisu,4,Electric,405,60,less than a hundred,45,less than a hundred,95,less than a hundred,100,nicest
+304,304,251,Celebi,2,Psychic,600,100,greater than a hundred,100,greater than a hundred,100,greater than a hundred,100,nicest
+465,465,385,Jirachi,3,Steel,600,100,greater than a hundred,100,greater than a hundred,100,greater than a hundred,100,nicest
+591,591,494,Victini,5,Psychic,600,100,greater than a hundred,100,greater than a hundred,100,greater than a hundred,100,nicest
+196,196,151,Mew,1,Psychic,600,100,greater than a hundred,100,greater than a hundred,100,greater than a hundred,100,nicest
+588,588,492,Shaymin Land Forme,4,Grass,600,100,greater than a hundred,100,greater than a hundred,100,greater than a hundred,100,nicest
+509,509,424,Ambipom,4,Normal,482,75,less than a hundred,100,greater than a hundred,115,greater than a hundred,100,nicest
+589,589,492,Shaymin Sky Forme,4,Grass,600,100,greater than a hundred,103,greater than a hundred,127,greater than a hundred,100,nicest
+760,760,648,Meloetta Pirouette Forme,5,Normal,600,100,greater than a hundred,128,greater than a hundred,128,greater than a hundred,100,nicest
+218,218,173,Cleffa,2,Fairy,218,50,less than a hundred,25,less than a hundred,15,less than a hundred,140,nicest
+526,526,440,Happiny,4,Normal,220,100,greater than a hundred,5,less than a hundred,30,less than a hundred,140,nicest
+46,46,35,Clefairy,1,Fairy,323,70,less than a hundred,45,less than a hundred,35,less than a hundred,140,nicest
+147,147,113,Chansey,1,Normal,450,250,greater than a hundred,5,less than a hundred,50,less than a hundred,140,nicest
+294,294,242,Blissey,2,Normal,540,255,greater than a hundred,10,less than a hundred,55,less than a hundred,140,nicest
+47,47,36,Clefable,1,Fairy,483,95,less than a hundred,70,less than a hundred,60,less than a hundred,140,nicest
+576,576,481,Mesprit,4,Psychic,580,80,less than a hundred,105,greater than a hundred,80,less than a hundred,140,nicest
+575,575,480,Uxie,4,Psychic,580,75,less than a hundred,75,less than a hundred,95,less than a hundred,140,nicest
+513,513,428,Lopunny,4,Normal,480,65,less than a hundred,76,less than a hundred,105,greater than a hundred,140,nicest
+577,577,482,Azelf,4,Psychic,580,75,less than a hundred,125,greater than a hundred,115,greater than a hundred,140,nicest
+514,514,428,Mega Lopunny,4,Normal,580,65,less than a hundred,136,greater than a hundred,135,greater than a hundred,140,nicest
